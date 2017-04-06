@@ -1,0 +1,10519 @@
+Process Movie :73469
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :110553
+MAP is :0
+MRR is :0
+
+Process Movie :73392
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :64032
+MAP is :0
+MRR is :0
+
+Process Movie :69951
+MAP is :0
+MRR is :0
+
+Process Movie :114074
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :73015
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :55290
+MAP is :0
+MRR is :0
+
+Process Movie :55294
+MAP is :0
+MRR is :0
+
+Process Movie :96373
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :100365
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :92309
+MAP is :0
+MRR is :0
+
+Process Movie :55765
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :55768
+MAP is :0
+MRR is :0
+
+Process Movie :100163
+MAP is :0
+MRR is :0
+
+Process Movie :61206
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :73266
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :116413
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :100383
+MAP is :0
+MRR is :0
+
+Process Movie :130642
+MAP is :0
+MRR is :0
+
+Process Movie :116419
+MAP is :0
+MRR is :0
+
+Process Movie :43871
+MAP is :0
+MRR is :0
+
+Process Movie :73268
+MAP is :0
+MRR is :0
+
+Process Movie :55908
+MAP is :0
+MRR is :0
+
+Process Movie :114670
+MAP is :0
+MRR is :0
+
+Process Movie :96150
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :93432
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :81537
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :104283
+MAP is :0
+MRR is :0
+
+Process Movie :64701
+MAP is :0
+MRR is :0
+
+Process Movie :117895
+MAP is :0
+MRR is :0
+
+Process Movie :60137
+MAP is :0
+MRR is :0
+
+Process Movie :60135
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :86982
+MAP is :0
+MRR is :0
+
+Process Movie :121231
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :99992
+MAP is :0
+MRR is :0
+
+Process Movie :68945
+MAP is :0
+MRR is :0
+
+Process Movie :45928
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :55830
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :130087
+MAP is :0
+MRR is :0
+
+Process Movie :130083
+MAP is :0
+MRR is :0
+
+Process Movie :80590
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :88024
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :69844
+MAP is :0
+MRR is :0
+
+Process Movie :90531
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :100017
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :98000
+MAP is :0
+MRR is :0
+
+Process Movie :104069
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :82534
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :52460
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :52462
+MAP is :0
+MRR is :0
+
+Process Movie :93320
+MAP is :0
+MRR is :0
+
+Process Movie :52644
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :53125
+MAP is :0
+MRR is :0
+
+Process Movie :53737
+MAP is :0
+MRR is :0
+
+Process Movie :62511
+MAP is :0
+MRR is :0
+
+Process Movie :95558
+MAP is :0
+MRR is :0
+
+Process Movie :56908
+MAP is :0
+MRR is :0
+
+Process Movie :102445
+MAP is :0
+MRR is :0
+
+Process Movie :146309
+MAP is :0
+MRR is :0
+
+Process Movie :146656
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :118334
+MAP is :0
+MRR is :0
+
+Process Movie :94024
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :85438
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :57504
+MAP is :0
+MRR is :0
+
+Process Movie :64900
+MAP is :0
+MRR is :0
+
+Process Movie :45447
+MAP is :0
+MRR is :0
+
+Process Movie :53024
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :45442
+MAP is :0
+MRR is :0
+
+Process Movie :141124
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :45440
+MAP is :0
+MRR is :0
+
+Process Movie :45666
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :85612
+MAP is :0
+MRR is :0
+
+Process Movie :48560
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :45662
+MAP is :0
+MRR is :0
+
+Process Movie :54881
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :45668
+MAP is :0
+MRR is :0
+
+Process Movie :63113
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :85572
+MAP is :0
+MRR is :0
+
+Process Movie :52730
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :107406
+MAP is :0
+MRR is :0
+
+Process Movie :60649
+MAP is :0
+MRR is :0
+
+Process Movie :84696
+MAP is :0
+MRR is :0
+
+Process Movie :70663
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :85056
+MAP is :0
+MRR is :0
+
+Process Movie :54426
+MAP is :0
+MRR is :0
+
+Process Movie :94478
+MAP is :0
+MRR is :0
+
+Process Movie :80572
+MAP is :0
+MRR is :0
+
+Process Movie :61075
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :45208
+MAP is :0
+MRR is :0
+
+Process Movie :71282
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :112138
+MAP is :0
+MRR is :0
+
+Process Movie :62644
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :108715
+MAP is :0
+MRR is :0
+
+Process Movie :59615
+MAP is :0
+MRR is :0
+
+Process Movie :71535
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :112421
+MAP is :0
+MRR is :0
+
+Process Movie :54771
+MAP is :0
+MRR is :0
+
+Process Movie :71823
+MAP is :0
+MRR is :0
+
+Process Movie :48783
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :71533
+MAP is :0
+MRR is :0
+
+Process Movie :54775
+MAP is :0
+MRR is :0
+
+Process Movie :53519
+MAP is :0
+MRR is :0
+
+Process Movie :104841
+MAP is :0
+MRR is :0
+
+Process Movie :103543
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :48142
+MAP is :0
+MRR is :0
+
+Process Movie :64249
+MAP is :0
+MRR is :0
+
+Process Movie :98913
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :83270
+MAP is :0
+MRR is :0
+
+Process Movie :70488
+MAP is :0
+MRR is :0
+
+Process Movie :102716
+MAP is :0
+MRR is :0
+
+Process Movie :112556
+MAP is :0
+MRR is :0
+
+Process Movie :112550
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :112552
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :94672
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :83293
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :54372
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :151639
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :62081
+MAP is :0
+MRR is :0
+
+Process Movie :59103
+MAP is :0
+MRR is :0
+
+Process Movie :94833
+MAP is :0
+MRR is :0
+
+Process Movie :79006
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :79008
+MAP is :0
+MRR is :0
+
+Process Movie :142488
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :44421
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :83613
+MAP is :0
+MRR is :0
+
+Process Movie :68358
+MAP is :0
+MRR is :0
+
+Process Movie :156387
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :67361
+MAP is :0
+MRR is :0
+
+Process Movie :72630
+MAP is :0
+MRR is :0
+
+Process Movie :95307
+MAP is :0
+MRR is :0
+
+Process Movie :67695
+MAP is :0
+MRR is :0
+
+Process Movie :89761
+MAP is :0
+MRR is :0
+
+Process Movie :78116
+MAP is :0
+MRR is :0
+
+Process Movie :136592
+MAP is :0
+MRR is :0
+
+Process Movie :97938
+MAP is :0
+MRR is :0
+
+Process Movie :58520
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :50259
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :106438
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :136598
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :50703
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :59037
+MAP is :0
+MRR is :0
+
+Process Movie :91660
+MAP is :0
+MRR is :0
+
+Process Movie :136602
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :112334
+MAP is :0
+MRR is :0
+
+Process Movie :109846
+MAP is :0
+MRR is :0
+
+Process Movie :72129
+MAP is :0
+MRR is :0
+
+Process Movie :94494
+MAP is :0
+MRR is :0
+
+Process Movie :109848
+MAP is :0
+MRR is :0
+
+Process Movie :61348
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :72701
+MAP is :0
+MRR is :0
+
+Process Movie :79677
+MAP is :0
+MRR is :0
+
+Process Movie :88812
+MAP is :0
+MRR is :0
+
+Process Movie :91688
+MAP is :0
+MRR is :0
+
+Process Movie :88810
+MAP is :0
+MRR is :0
+
+Process Movie :51471
+MAP is :0
+MRR is :0
+
+Process Movie :109191
+MAP is :0
+MRR is :0
+
+Process Movie :136020
+MAP is :0
+MRR is :0
+
+Process Movie :53996
+MAP is :0
+MRR is :0
+
+Process Movie :114265
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :114342
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :55110
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :92264
+MAP is :0
+MRR is :0
+
+Process Movie :55116
+MAP is :0
+MRR is :0
+
+Process Movie :55118
+MAP is :0
+MRR is :0
+
+Process Movie :95949
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :111235
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :105355
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :156726
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :72380
+MAP is :0
+MRR is :0
+
+Process Movie :72386
+MAP is :0
+MRR is :0
+
+Process Movie :114044
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :65088
+MAP is :0
+MRR is :0
+
+Process Movie :105351
+MAP is :0
+MRR is :0
+
+Process Movie :89388
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :140152
+MAP is :0
+MRR is :0
+
+Process Movie :80693
+MAP is :0
+MRR is :0
+
+Process Movie :87975
+MAP is :0
+MRR is :0
+
+Process Movie :82459
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :51277
+MAP is :0
+MRR is :0
+
+Process Movie :110127
+MAP is :0
+MRR is :0
+
+Process Movie :103372
+MAP is :0
+MRR is :0
+
+Process Movie :91842
+MAP is :0
+MRR is :0
+
+Process Movie :55757
+MAP is :0
+MRR is :0
+
+Process Movie :51077
+MAP is :0
+MRR is :0
+
+Process Movie :55245
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :59731
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :55247
+MAP is :0
+MRR is :0
+
+Process Movie :100390
+MAP is :0
+MRR is :0
+
+Process Movie :73276
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :43869
+MAP is :0
+MRR is :0
+
+Process Movie :65261
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :88140
+MAP is :0
+MRR is :0
+
+Process Movie :71518
+MAP is :0
+MRR is :0
+
+Process Movie :89030
+MAP is :0
+MRR is :0
+
+Process Movie :159093
+MAP is :0
+MRR is :0
+
+Process Movie :100843
+MAP is :0
+MRR is :0
+
+Process Movie :65642
+MAP is :0
+MRR is :0
+
+Process Movie :74486
+MAP is :0
+MRR is :0
+
+Process Movie :150548
+MAP is :0
+MRR is :0
+
+Process Movie :96417
+MAP is :0
+MRR is :0
+
+Process Movie :60832
+MAP is :0
+MRR is :0
+
+Process Movie :100714
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :87598
+MAP is :0
+MRR is :0
+
+Process Movie :96634
+MAP is :0
+MRR is :0
+
+Process Movie :60126
+MAP is :0
+MRR is :0
+
+Process Movie :64114
+MAP is :0
+MRR is :0
+
+Process Movie :64116
+MAP is :0
+MRR is :0
+
+Process Movie :112689
+MAP is :0
+MRR is :0
+
+Process Movie :75990
+MAP is :0
+MRR is :0
+
+Process Movie :55805
+MAP is :0
+MRR is :0
+
+Process Movie :70984
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :80584
+MAP is :0
+MRR is :0
+
+Process Movie :75440
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :80586
+MAP is :0
+MRR is :0
+
+Process Movie :65465
+MAP is :0
+MRR is :0
+
+Process Movie :69746
+MAP is :0
+MRR is :0
+
+Process Movie :98585
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :80748
+MAP is :0
+MRR is :0
+
+Process Movie :57669
+MAP is :0
+MRR is :0
+
+Process Movie :80217
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :161918
+MAP is :0
+MRR is :0
+
+Process Movie :82527
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :101025
+MAP is :0
+MRR is :0
+
+Process Movie :104726
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :57401
+MAP is :0
+MRR is :0
+
+Process Movie :49772
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :65514
+MAP is :0
+MRR is :0
+
+Process Movie :79824
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :56915
+MAP is :0
+MRR is :0
+
+Process Movie :138610
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :94018
+MAP is :0
+MRR is :0
+
+Process Movie :84116
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :118326
+MAP is :0
+MRR is :0
+
+Process Movie :74228
+MAP is :0
+MRR is :0
+
+Process Movie :53038
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :98296
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :141688
+MAP is :0
+MRR is :0
+
+Process Movie :66509
+MAP is :0
+MRR is :0
+
+Process Movie :104129
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :44788
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :70728
+MAP is :0
+MRR is :0
+
+Process Movie :107412
+MAP is :0
+MRR is :0
+
+Process Movie :87298
+MAP is :0
+MRR is :0
+
+Process Movie :134158
+MAP is :0
+MRR is :0
+
+Process Movie :160080
+MAP is :0
+MRR is :0
+
+Process Movie :121171
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :164979
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :108192
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :147845
+MAP is :0
+MRR is :0
+
+Process Movie :63479
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :164977
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :64338
+MAP is :0
+MRR is :0
+
+Process Movie :49314
+MAP is :0
+MRR is :0
+
+Process Movie :112303
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :80363
+MAP is :0
+MRR is :0
+
+Process Movie :58998
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :85510
+MAP is :0
+MRR is :0
+
+Process Movie :63876
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :54419
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :48319
+MAP is :0
+MRR is :0
+
+Process Movie :70121
+MAP is :0
+MRR is :0
+
+Process Movie :71838
+MAP is :0
+MRR is :0
+
+Process Movie :70344
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :80599
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :112940
+MAP is :0
+MRR is :0
+
+Process Movie :71525
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :71520
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :104879
+MAP is :0
+MRR is :0
+
+Process Movie :80969
+MAP is :0
+MRR is :0
+
+Process Movie :49957
+MAP is :0
+MRR is :0
+
+Process Movie :98933
+MAP is :0
+MRR is :0
+
+Process Movie :152057
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :157667
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :95761
+MAP is :0
+MRR is :0
+
+Process Movie :149590
+MAP is :0
+MRR is :0
+
+Process Movie :58191
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :99437
+MAP is :0
+MRR is :0
+
+Process Movie :83910
+MAP is :0
+MRR is :0
+
+Process Movie :63276
+MAP is :0
+MRR is :0
+
+Process Movie :73106
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :108932
+MAP is :0
+MRR is :0
+
+Process Movie :118814
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :117529
+MAP is :0
+MRR is :0
+
+Process Movie :45722
+MAP is :0
+MRR is :0
+
+Process Movie :132333
+MAP is :0
+MRR is :0
+
+Process Movie :68901
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :78499
+MAP is :0
+MRR is :0
+
+Process Movie :71745
+MAP is :0
+MRR is :0
+
+Process Movie :91077
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :48043
+MAP is :0
+MRR is :0
+
+Process Movie :76763
+MAP is :0
+MRR is :0
+
+Process Movie :84312
+MAP is :0
+MRR is :0
+
+Process Movie :94799
+MAP is :0
+MRR is :0
+
+Process Movie :129428
+MAP is :0
+MRR is :0
+
+Process Movie :62250
+MAP is :0
+MRR is :0
+
+Process Movie :99728
+MAP is :0
+MRR is :0
+
+Process Movie :54272
+MAP is :0
+MRR is :0
+
+Process Movie :102165
+MAP is :0
+MRR is :0
+
+Process Movie :54745
+MAP is :0
+MRR is :0
+
+Process Movie :72696
+MAP is :0
+MRR is :0
+
+Process Movie :99846
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :132800
+MAP is :0
+MRR is :0
+
+Process Movie :68614
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :68347
+MAP is :0
+MRR is :0
+
+Process Movie :89774
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :68835
+MAP is :0
+MRR is :0
+
+Process Movie :132488
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :78729
+MAP is :0
+MRR is :0
+
+Process Movie :132480
+MAP is :0
+MRR is :0
+
+Process Movie :112062
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :109295
+MAP is :0
+MRR is :0
+
+Process Movie :148888
+MAP is :0
+MRR is :0
+
+Process Movie :95375
+MAP is :0
+MRR is :0
+
+Process Movie :95377
+MAP is :0
+MRR is :0
+
+Process Movie :148881
+MAP is :0
+MRR is :0
+
+Process Movie :103384
+MAP is :0
+MRR is :0
+
+Process Movie :60397
+MAP is :0
+MRR is :0
+
+Process Movie :97923
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :50245
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :103141
+MAP is :0
+MRR is :0
+
+Process Movie :56336
+MAP is :0
+MRR is :0
+
+Process Movie :109850
+MAP is :0
+MRR is :0
+
+Process Movie :109853
+MAP is :0
+MRR is :0
+
+Process Movie :78653
+MAP is :0
+MRR is :0
+
+Process Movie :78122
+MAP is :0
+MRR is :0
+
+Process Movie :72131
+MAP is :0
+MRR is :0
+
+Process Movie :47518
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :79702
+MAP is :0
+MRR is :0
+
+Process Movie :94953
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :91470
+MAP is :0
+MRR is :0
+
+Process Movie :109187
+MAP is :0
+MRR is :0
+
+Process Movie :89804
+MAP is :0
+MRR is :0
+
+Process Movie :109183
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :76210
+MAP is :0
+MRR is :0
+
+Process Movie :91690
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :77561
+MAP is :0
+MRR is :0
+
+Process Movie :135536
+MAP is :0
+MRR is :0
+
+Process Movie :98154
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :73664
+MAP is :0
+MRR is :0
+
+Process Movie :93324
+MAP is :0
+MRR is :0
+
+Process Movie :109673
+MAP is :0
+MRR is :0
+
+Process Movie :93326
+MAP is :0
+MRR is :0
+
+Process Movie :132796
+MAP is :0
+MRR is :0
+
+Process Movie :127212
+MAP is :0
+MRR is :0
+
+Process Movie :86644
+MAP is :0
+MRR is :0
+
+Process Movie :55100
+MAP is :0
+MRR is :0
+
+Process Movie :59315
+MAP is :0
+MRR is :0
+
+Process Movie :72393
+MAP is :0
+MRR is :0
+
+Process Movie :86190
+MAP is :0
+MRR is :0
+
+Process Movie :96792
+MAP is :0
+MRR is :0
+
+Process Movie :95207
+MAP is :0
+MRR is :0
+
+Process Movie :95201
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :97858
+MAP is :0
+MRR is :0
+
+Process Movie :55069
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :72626
+MAP is :0
+MRR is :0
+
+Process Movie :88954
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :73860
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :88950
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :145775
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :74727
+MAP is :0
+MRR is :0
+
+Process Movie :65982
+MAP is :0
+MRR is :0
+
+Process Movie :109074
+MAP is :0
+MRR is :0
+
+Process Movie :72405
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :72407
+MAP is :0
+MRR is :0
+
+Process Movie :69974
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :86345
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :86347
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :119145
+MAP is :0
+MRR is :0
+
+Process Movie :132462
+MAP is :0
+MRR is :0
+
+Process Movie :119141
+MAP is :0
+MRR is :0
+
+Process Movie :60937
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :120635
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :120637
+MAP is :0
+MRR is :0
+
+Process Movie :115877
+MAP is :0
+MRR is :0
+
+Process Movie :69406
+MAP is :0
+MRR is :0
+
+Process Movie :50064
+MAP is :0
+MRR is :0
+
+Process Movie :61357
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :61350
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :66798
+MAP is :0
+MRR is :0
+
+Process Movie :61352
+MAP is :0
+MRR is :0
+
+Process Movie :44709
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :50068
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :55031
+MAP is :0
+MRR is :0
+
+Process Movie :117434
+MAP is :0
+MRR is :0
+
+Process Movie :60333
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :55253
+MAP is :0
+MRR is :0
+
+Process Movie :55250
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :127728
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :74851
+MAP is :0
+MRR is :0
+
+Process Movie :96530
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :74580
+MAP is :0
+MRR is :0
+
+Process Movie :48744
+MAP is :0
+MRR is :0
+
+Process Movie :55259
+MAP is :0
+MRR is :0
+
+Process Movie :65188
+MAP is :0
+MRR is :0
+
+Process Movie :81516
+MAP is :0
+MRR is :0
+
+Process Movie :46544
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :81512
+MAP is :0
+MRR is :0
+
+Process Movie :140523
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :45880
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :114459
+MAP is :0
+MRR is :0
+
+Process Movie :101142
+MAP is :0
+MRR is :0
+
+Process Movie :93693
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :93498
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :69436
+MAP is :0
+MRR is :0
+
+Process Movie :60487
+MAP is :0
+MRR is :0
+
+Process Movie :135567
+MAP is :0
+MRR is :0
+
+Process Movie :57274
+MAP is :0
+MRR is :0
+
+Process Movie :98441
+MAP is :0
+MRR is :0
+
+Process Movie :74450
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :53999
+MAP is :0
+MRR is :0
+
+Process Movie :74452
+MAP is :0
+MRR is :0
+
+Process Movie :55814
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :75985
+MAP is :0
+MRR is :0
+
+Process Movie :53993
+MAP is :0
+MRR is :0
+
+Process Movie :74458
+MAP is :0
+MRR is :0
+
+Process Movie :75983
+MAP is :0
+MRR is :0
+
+Process Movie :139130
+MAP is :0
+MRR is :0
+
+Process Movie :46062
+MAP is :0
+MRR is :0
+
+Process Movie :101529
+MAP is :0
+MRR is :0
+
+Process Movie :52245
+MAP is :0
+MRR is :0
+
+Process Movie :100032
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :100034
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :52241
+MAP is :0
+MRR is :0
+
+Process Movie :64614
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :101525
+MAP is :0
+MRR is :0
+
+Process Movie :57418
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :99220
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :60069
+MAP is :0
+MRR is :0
+
+Process Movie :127178
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :80489
+MAP is :0
+MRR is :0
+
+Process Movie :64030
+MAP is :0
+MRR is :0
+
+Process Movie :64034
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :152844
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :90249
+MAP is :0
+MRR is :0
+
+Process Movie :134368
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :45942
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :97593
+MAP is :0
+MRR is :0
+
+Process Movie :105731
+MAP is :0
+MRR is :0
+
+Process Movie :56079
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :58839
+MAP is :0
+MRR is :0
+
+Process Movie :99089
+MAP is :0
+MRR is :0
+
+Process Movie :90061
+MAP is :0
+MRR is :0
+
+Process Movie :99085
+MAP is :0
+MRR is :0
+
+Process Movie :48231
+MAP is :0
+MRR is :0
+
+Process Movie :74688
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :160271
+MAP is :0
+MRR is :0
+
+Process Movie :106397
+MAP is :0
+MRR is :0
+
+Process Movie :102396
+MAP is :0
+MRR is :0
+
+Process Movie :80553
+MAP is :0
+MRR is :0
+
+Process Movie :53974
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :80551
+MAP is :0
+MRR is :0
+
+Process Movie :48301
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :47330
+MAP is :0
+MRR is :0
+
+Process Movie :48304
+MAP is :0
+MRR is :0
+
+Process Movie :53972
+MAP is :0
+MRR is :0
+
+Process Movie :134569
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :102880
+MAP is :0
+MRR is :0
+
+Process Movie :133782
+MAP is :0
+MRR is :0
+
+Process Movie :54995
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :104863
+MAP is :0
+MRR is :0
+
+Process Movie :86504
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :102378
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :54999
+MAP is :0
+MRR is :0
+
+Process Movie :95199
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :78469
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :105715
+MAP is :0
+MRR is :0
+
+Process Movie :69529
+MAP is :0
+MRR is :0
+
+Process Movie :128616
+MAP is :0
+MRR is :0
+
+Process Movie :78467
+MAP is :0
+MRR is :0
+
+Process Movie :59832
+MAP is :0
+MRR is :0
+
+Process Movie :82667
+MAP is :0
+MRR is :0
+
+Process Movie :122490
+MAP is :0
+MRR is :0
+
+Process Movie :62792
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :44225
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :59834
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :78266
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :97913
+MAP is :0
+MRR is :0
+
+Process Movie :78264
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :123947
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :134783
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :45081
+MAP is :0
+MRR is :0
+
+Process Movie :59126
+MAP is :0
+MRR is :0
+
+Process Movie :104337
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :54190
+MAP is :0
+MRR is :0
+
+Process Movie :59945
+MAP is :0
+MRR is :0
+
+Process Movie :58303
+MAP is :0
+MRR is :0
+
+Process Movie :58306
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :57980
+MAP is :0
+MRR is :0
+
+Process Movie :79029
+MAP is :0
+MRR is :0
+
+Process Movie :51086
+MAP is :0
+MRR is :0
+
+Process Movie :161582
+MAP is :0
+MRR is :0
+
+Process Movie :121618
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :112112
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :79590
+MAP is :0
+MRR is :0
+
+Process Movie :137337
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :132496
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :108447
+MAP is :0
+MRR is :0
+
+Process Movie :58425
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :59014
+MAP is :0
+MRR is :0
+
+Process Movie :44245
+MAP is :0
+MRR is :0
+
+Process Movie :59016
+MAP is :0
+MRR is :0
+
+Process Movie :59018
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :59549
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :86721
+MAP is :0
+MRR is :0
+
+Process Movie :106417
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :91199
+MAP is :0
+MRR is :0
+
+Process Movie :94969
+MAP is :0
+MRR is :0
+
+Process Movie :68932
+MAP is :0
+MRR is :0
+
+Process Movie :109864
+MAP is :0
+MRR is :0
+
+Process Movie :76173
+MAP is :0
+MRR is :0
+
+Process Movie :76175
+MAP is :0
+MRR is :0
+
+Process Movie :110781
+MAP is :0
+MRR is :0
+
+Process Movie :89837
+MAP is :0
+MRR is :0
+
+Process Movie :111362
+MAP is :0
+MRR is :0
+
+Process Movie :111360
+MAP is :0
+MRR is :0
+
+Process Movie :74545
+MAP is :0
+MRR is :0
+
+Process Movie :111364
+MAP is :0
+MRR is :0
+
+Process Movie :50872
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :77359
+MAP is :0
+MRR is :0
+
+Process Movie :100553
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :67788
+MAP is :0
+MRR is :0
+
+Process Movie :103772
+MAP is :0
+MRR is :0
+
+Process Movie :66090
+MAP is :0
+MRR is :0
+
+Process Movie :97860
+MAP is :0
+MRR is :0
+
+Process Movie :66097
+MAP is :0
+MRR is :0
+
+Process Movie :59306
+MAP is :0
+MRR is :0
+
+Process Movie :95963
+MAP is :0
+MRR is :0
+
+Process Movie :95965
+MAP is :0
+MRR is :0
+
+Process Movie :79357
+MAP is :0
+MRR is :0
+
+Process Movie :89492
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :46948
+MAP is :0
+MRR is :0
+
+Process Movie :111781
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :72479
+MAP is :0
+MRR is :0
+
+Process Movie :52831
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :119155
+MAP is :0
+MRR is :0
+
+Process Movie :103596
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :109249
+MAP is :0
+MRR is :0
+
+Process Movie :100159
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :61323
+MAP is :0
+MRR is :0
+
+Process Movie :91535
+MAP is :0
+MRR is :0
+
+Process Movie :66785
+MAP is :0
+MRR is :0
+
+Process Movie :100487
+MAP is :0
+MRR is :0
+
+Process Movie :120392
+MAP is :0
+MRR is :0
+
+Process Movie :55261
+MAP is :0
+MRR is :0
+
+Process Movie :55267
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :61250
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :55269
+MAP is :0
+MRR is :0
+
+Process Movie :73290
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :81562
+MAP is :0
+MRR is :0
+
+Process Movie :81564
+MAP is :0
+MRR is :0
+
+Process Movie :65193
+MAP is :0
+MRR is :0
+
+Process Movie :140715
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :128846
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :98611
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :98615
+MAP is :0
+MRR is :0
+
+Process Movie :90647
+MAP is :0
+MRR is :0
+
+Process Movie :161336
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :92756
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :92751
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :96432
+MAP is :0
+MRR is :0
+
+Process Movie :65665
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :82093
+MAP is :0
+MRR is :0
+
+Process Movie :88179
+MAP is :0
+MRR is :0
+
+Process Movie :96610
+MAP is :0
+MRR is :0
+
+Process Movie :96616
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :84844
+MAP is :0
+MRR is :0
+
+Process Movie :57243
+MAP is :0
+MRR is :0
+
+Process Movie :98122
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :57792
+MAP is :0
+MRR is :0
+
+Process Movie :98126
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :98124
+MAP is :0
+MRR is :0
+
+Process Movie :90870
+MAP is :0
+MRR is :0
+
+Process Movie :65685
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :65682
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :117511
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :105246
+MAP is :0
+MRR is :0
+
+Process Movie :86884
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :105037
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :86882
+MAP is :0
+MRR is :0
+
+Process Movie :86880
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :101285
+MAP is :0
+MRR is :0
+
+Process Movie :101283
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :98056
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :51127
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :64620
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :86864
+MAP is :0
+MRR is :0
+
+Process Movie :95567
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :97673
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :53189
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :63072
+MAP is :0
+MRR is :0
+
+Process Movie :141866
+MAP is :0
+MRR is :0
+
+Process Movie :52694
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :140711
+MAP is :0
+MRR is :0
+
+Process Movie :60072
+MAP is :0
+MRR is :0
+
+Process Movie :60074
+MAP is :0
+MRR is :0
+
+Process Movie :128620
+MAP is :0
+MRR is :0
+
+Process Movie :80166
+MAP is :0
+MRR is :0
+
+Process Movie :100556
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :141668
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :56069
+MAP is :0
+MRR is :0
+
+Process Movie :153584
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :64957
+MAP is :0
+MRR is :0
+
+Process Movie :52767
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :58047
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :46855
+MAP is :0
+MRR is :0
+
+Process Movie :113186
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :134130
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :105504
+MAP is :0
+MRR is :0
+
+Process Movie :44911
+MAP is :0
+MRR is :0
+
+Process Movie :71530
+MAP is :0
+MRR is :0
+
+Process Movie :93805
+MAP is :0
+MRR is :0
+
+Process Movie :84392
+MAP is :0
+MRR is :0
+
+Process Movie :60674
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :48780
+MAP is :0
+MRR is :0
+
+Process Movie :121113
+MAP is :0
+MRR is :0
+
+Process Movie :81949
+MAP is :0
+MRR is :0
+
+Process Movie :97866
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :51884
+MAP is :0
+MRR is :0
+
+Process Movie :60471
+MAP is :0
+MRR is :0
+
+Process Movie :97470
+MAP is :0
+MRR is :0
+
+Process Movie :80549
+MAP is :0
+MRR is :0
+
+Process Movie :139855
+MAP is :0
+MRR is :0
+
+Process Movie :45521
+MAP is :0
+MRR is :0
+
+Process Movie :81018
+MAP is :0
+MRR is :0
+
+Process Movie :112921
+MAP is :0
+MRR is :0
+
+Process Movie :92535
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :152077
+MAP is :0
+MRR is :0
+
+Process Movie :133798
+MAP is :0
+MRR is :0
+
+Process Movie :44694
+MAP is :0
+MRR is :0
+
+Process Movie :113453
+MAP is :0
+MRR is :0
+
+Process Movie :152079
+MAP is :0
+MRR is :0
+
+Process Movie :99145
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :70697
+MAP is :0
+MRR is :0
+
+Process Movie :48682
+MAP is :0
+MRR is :0
+
+Process Movie :48414
+MAP is :0
+MRR is :0
+
+Process Movie :99149
+MAP is :0
+MRR is :0
+
+Process Movie :106072
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :71180
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :95740
+MAP is :0
+MRR is :0
+
+Process Movie :90057
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :54503
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :59805
+MAP is :0
+MRR is :0
+
+Process Movie :146443
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :141718
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :46335
+MAP is :0
+MRR is :0
+
+Process Movie :106144
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :112070
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :54328
+MAP is :0
+MRR is :0
+
+Process Movie :48061
+MAP is :0
+MRR is :0
+
+Process Movie :80839
+MAP is :0
+MRR is :0
+
+Process Movie :72880
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :58315
+MAP is :0
+MRR is :0
+
+Process Movie :104925
+MAP is :0
+MRR is :0
+
+Process Movie :80831
+MAP is :0
+MRR is :0
+
+Process Movie :112852
+MAP is :0
+MRR is :0
+
+Process Movie :48593
+MAP is :0
+MRR is :0
+
+Process Movie :48591
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :78034
+MAP is :0
+MRR is :0
+
+Process Movie :156609
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :156607
+MAP is :0
+MRR is :0
+
+Process Movie :78039
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :112450
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :50806
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :68324
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :82854
+MAP is :0
+MRR is :0
+
+Process Movie :92439
+MAP is :0
+MRR is :0
+
+Process Movie :79293
+MAP is :0
+MRR is :0
+
+Process Movie :123663
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :79299
+MAP is :0
+MRR is :0
+
+Process Movie :66310
+MAP is :0
+MRR is :0
+
+Process Movie :58559
+MAP is :0
+MRR is :0
+
+Process Movie :79720
+MAP is :0
+MRR is :0
+
+Process Movie :77907
+MAP is :0
+MRR is :0
+
+Process Movie :66317
+MAP is :0
+MRR is :0
+
+Process Movie :58554
+MAP is :0
+MRR is :0
+
+Process Movie :144620
+MAP is :0
+MRR is :0
+
+Process Movie :78101
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :78105
+MAP is :0
+MRR is :0
+
+Process Movie :132046
+MAP is :0
+MRR is :0
+
+Process Movie :136016
+MAP is :0
+MRR is :0
+
+Process Movie :47640
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :67957
+MAP is :0
+MRR is :0
+
+Process Movie :66130
+MAP is :0
+MRR is :0
+
+Process Movie :54256
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :66427
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :67408
+MAP is :0
+MRR is :0
+
+Process Movie :110771
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :109895
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :101360
+MAP is :0
+MRR is :0
+
+Process Movie :103299
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :79091
+MAP is :0
+MRR is :0
+
+Process Movie :89000
+MAP is :0
+MRR is :0
+
+Process Movie :67799
+MAP is :0
+MRR is :0
+
+Process Movie :92509
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :107042
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :89904
+MAP is :0
+MRR is :0
+
+Process Movie :92507
+MAP is :0
+MRR is :0
+
+Process Movie :161155
+MAP is :0
+MRR is :0
+
+Process Movie :106883
+MAP is :0
+MRR is :0
+
+Process Movie :72641
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :77837
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :61240
+MAP is :0
+MRR is :0
+
+Process Movie :111795
+MAP is :0
+MRR is :0
+
+Process Movie :143410
+MAP is :0
+MRR is :0
+
+Process Movie :55498
+MAP is :0
+MRR is :0
+
+Process Movie :61024
+MAP is :0
+MRR is :0
+
+Process Movie :81083
+MAP is :0
+MRR is :0
+
+Process Movie :144172
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :136305
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :92613
+MAP is :0
+MRR is :0
+
+Process Movie :69654
+MAP is :0
+MRR is :0
+
+Process Movie :48856
+MAP is :0
+MRR is :0
+
+Process Movie :50685
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :64153
+MAP is :0
+MRR is :0
+
+Process Movie :82152
+MAP is :0
+MRR is :0
+
+Process Movie :111486
+MAP is :0
+MRR is :0
+
+Process Movie :91529
+MAP is :0
+MRR is :0
+
+Process Movie :50514
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :103341
+MAP is :0
+MRR is :0
+
+Process Movie :51939
+MAP is :0
+MRR is :0
+
+Process Movie :67197
+MAP is :0
+MRR is :0
+
+Process Movie :145150
+MAP is :0
+MRR is :0
+
+Process Movie :110352
+MAP is :0
+MRR is :0
+
+Process Movie :55274
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :55276
+MAP is :0
+MRR is :0
+
+Process Movie :51937
+MAP is :0
+MRR is :0
+
+Process Movie :55272
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :110194
+MAP is :0
+MRR is :0
+
+Process Movie :101612
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :52913
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :73023
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :74698
+MAP is :0
+MRR is :0
+
+Process Movie :104245
+MAP is :0
+MRR is :0
+
+Process Movie :69516
+MAP is :0
+MRR is :0
+
+Process Movie :98607
+MAP is :0
+MRR is :0
+
+Process Movie :98604
+MAP is :0
+MRR is :0
+
+Process Movie :115927
+MAP is :0
+MRR is :0
+
+Process Movie :64839
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :55652
+MAP is :0
+MRR is :0
+
+Process Movie :100581
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :87522
+MAP is :0
+MRR is :0
+
+Process Movie :107910
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :45186
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :96606
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :90863
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :90866
+MAP is :0
+MRR is :0
+
+Process Movie :80717
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :55872
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :57453
+MAP is :0
+MRR is :0
+
+Process Movie :86898
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :77658
+MAP is :0
+MRR is :0
+
+Process Movie :56782
+MAP is :0
+MRR is :0
+
+Process Movie :56788
+MAP is :0
+MRR is :0
+
+Process Movie :86892
+MAP is :0
+MRR is :0
+
+Process Movie :43832
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :93563
+MAP is :0
+MRR is :0
+
+Process Movie :65230
+MAP is :0
+MRR is :0
+
+Process Movie :43838
+MAP is :0
+MRR is :0
+
+Process Movie :57353
+MAP is :0
+MRR is :0
+
+Process Movie :95510
+MAP is :0
+MRR is :0
+
+Process Movie :87234
+MAP is :0
+MRR is :0
+
+Process Movie :60040
+MAP is :0
+MRR is :0
+
+Process Movie :49528
+MAP is :0
+MRR is :0
+
+Process Movie :63062
+MAP is :0
+MRR is :0
+
+Process Movie :104757
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :53883
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :53887
+MAP is :0
+MRR is :0
+
+Process Movie :92234
+MAP is :0
+MRR is :0
+
+Process Movie :64497
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :105755
+MAP is :0
+MRR is :0
+
+Process Movie :68954
+MAP is :0
+MRR is :0
+
+Process Movie :94780
+MAP is :0
+MRR is :0
+
+Process Movie :74275
+MAP is :0
+MRR is :0
+
+Process Movie :90266
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :105197
+MAP is :0
+MRR is :0
+
+Process Movie :104119
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :90469
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :56095
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :53318
+MAP is :0
+MRR is :0
+
+Process Movie :162542
+MAP is :0
+MRR is :0
+
+Process Movie :46530
+MAP is :0
+MRR is :0
+
+Process Movie :128360
+MAP is :0
+MRR is :0
+
+Process Movie :70597
+MAP is :0
+MRR is :0
+
+Process Movie :70599
+MAP is :0
+MRR is :0
+
+Process Movie :57326
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :107447
+MAP is :0
+MRR is :0
+
+Process Movie :68137
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :60684
+MAP is :0
+MRR is :0
+
+Process Movie :68135
+MAP is :0
+MRR is :0
+
+Process Movie :52579
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :116161
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :101088
+MAP is :0
+MRR is :0
+
+Process Movie :53953
+MAP is :0
+MRR is :0
+
+Process Movie :122920
+MAP is :0
+MRR is :0
+
+Process Movie :113532
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :53956
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :122924
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :90603
+MAP is :0
+MRR is :0
+
+Process Movie :48322
+MAP is :0
+MRR is :0
+
+Process Movie :80026
+MAP is :0
+MRR is :0
+
+Process Movie :85016
+MAP is :0
+MRR is :0
+
+Process Movie :118997
+MAP is :0
+MRR is :0
+
+Process Movie :53550
+MAP is :0
+MRR is :0
+
+Process Movie :159972
+MAP is :0
+MRR is :0
+
+Process Movie :84637
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :152081
+MAP is :0
+MRR is :0
+
+Process Movie :48696
+MAP is :0
+MRR is :0
+
+Process Movie :48698
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :62331
+MAP is :0
+MRR is :0
+
+Process Movie :58146
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :62336
+MAP is :0
+MRR is :0
+
+Process Movie :102753
+MAP is :0
+MRR is :0
+
+Process Movie :63082
+MAP is :0
+MRR is :0
+
+Process Movie :116012
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :44597
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :71438
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :65216
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :102995
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :54513
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :71379
+MAP is :0
+MRR is :0
+
+Process Movie :70751
+MAP is :0
+MRR is :0
+
+Process Movie :44759
+MAP is :0
+MRR is :0
+
+Process Movie :102993
+MAP is :0
+MRR is :0
+
+Process Movie :59810
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :44204
+MAP is :0
+MRR is :0
+
+Process Movie :59814
+MAP is :0
+MRR is :0
+
+Process Movie :90738
+MAP is :0
+MRR is :0
+
+Process Movie :68793
+MAP is :0
+MRR is :0
+
+Process Movie :59143
+MAP is :0
+MRR is :0
+
+Process Movie :68791
+MAP is :0
+MRR is :0
+
+Process Movie :59141
+MAP is :0
+MRR is :0
+
+Process Movie :71156
+MAP is :0
+MRR is :0
+
+Process Movie :71404
+MAP is :0
+MRR is :0
+
+Process Movie :112006
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :59784
+MAP is :0
+MRR is :0
+
+Process Movie :108689
+MAP is :0
+MRR is :0
+
+Process Movie :58365
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :80846
+MAP is :0
+MRR is :0
+
+Process Movie :87383
+MAP is :0
+MRR is :0
+
+Process Movie :115664
+MAP is :0
+MRR is :0
+
+Process Movie :136800
+MAP is :0
+MRR is :0
+
+Process Movie :68319
+MAP is :0
+MRR is :0
+
+Process Movie :50794
+MAP is :0
+MRR is :0
+
+Process Movie :71573
+MAP is :0
+MRR is :0
+
+Process Movie :71579
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :102194
+MAP is :0
+MRR is :0
+
+Process Movie :112460
+MAP is :0
+MRR is :0
+
+Process Movie :106920
+MAP is :0
+MRR is :0
+
+Process Movie :47493
+MAP is :0
+MRR is :0
+
+Process Movie :47491
+MAP is :0
+MRR is :0
+
+Process Movie :142422
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :106473
+MAP is :0
+MRR is :0
+
+Process Movie :106471
+MAP is :0
+MRR is :0
+
+Process Movie :159755
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :92420
+MAP is :0
+MRR is :0
+
+Process Movie :92424
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :62113
+MAP is :0
+MRR is :0
+
+Process Movie :62115
+MAP is :0
+MRR is :0
+
+Process Movie :57038
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :84954
+MAP is :0
+MRR is :0
+
+Process Movie :99609
+MAP is :0
+MRR is :0
+
+Process Movie :160718
+MAP is :0
+MRR is :0
+
+Process Movie :68269
+MAP is :0
+MRR is :0
+
+Process Movie :47810
+MAP is :0
+MRR is :0
+
+Process Movie :130682
+MAP is :0
+MRR is :0
+
+Process Movie :83096
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :47815
+MAP is :0
+MRR is :0
+
+Process Movie :97836
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :50851
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :107057
+MAP is :0
+MRR is :0
+
+Process Movie :89039
+MAP is :0
+MRR is :0
+
+Process Movie :109317
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :160440
+MAP is :0
+MRR is :0
+
+Process Movie :48501
+MAP is :0
+MRR is :0
+
+Process Movie :73854
+MAP is :0
+MRR is :0
+
+Process Movie :59369
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :103755
+MAP is :0
+MRR is :0
+
+Process Movie :44972
+MAP is :0
+MRR is :0
+
+Process Movie :44974
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :95309
+MAP is :0
+MRR is :0
+
+Process Movie :129364
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :77808
+MAP is :0
+MRR is :0
+
+Process Movie :47254
+MAP is :0
+MRR is :0
+
+Process Movie :77800
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :66544
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :106873
+MAP is :0
+MRR is :0
+
+Process Movie :106870
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :71640
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :110501
+MAP is :0
+MRR is :0
+
+Process Movie :152091
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :114082
+MAP is :0
+MRR is :0
+
+Process Movie :50601
+MAP is :0
+MRR is :0
+
+Process Movie :73101
+MAP is :0
+MRR is :0
+
+Process Movie :72694
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :111743
+MAP is :0
+MRR is :0
+
+Process Movie :89102
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :82095
+MAP is :0
+MRR is :0
+
+Process Movie :78517
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :55063
+MAP is :0
+MRR is :0
+
+Process Movie :127198
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :73587
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :132458
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :87930
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :103339
+MAP is :0
+MRR is :0
+
+Process Movie :92198
+MAP is :0
+MRR is :0
+
+Process Movie :155064
+MAP is :0
+MRR is :0
+
+Process Movie :103624
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :74916
+MAP is :0
+MRR is :0
+
+Process Movie :103335
+MAP is :0
+MRR is :0
+
+Process Movie :103801
+MAP is :0
+MRR is :0
+
+Process Movie :117192
+MAP is :0
+MRR is :0
+
+Process Movie :110348
+MAP is :0
+MRR is :0
+
+Process Movie :55207
+MAP is :0
+MRR is :0
+
+Process Movie :58156
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :77798
+MAP is :0
+MRR is :0
+
+Process Movie :74685
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :52967
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :88672
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :97936
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :62999
+MAP is :0
+MRR is :0
+
+Process Movie :163949
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :69526
+MAP is :0
+MRR is :0
+
+Process Movie :69524
+MAP is :0
+MRR is :0
+
+Process Movie :111113
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :50147
+MAP is :0
+MRR is :0
+
+Process Movie :73929
+MAP is :0
+MRR is :0
+
+Process Movie :100226
+MAP is :0
+MRR is :0
+
+Process Movie :103249
+MAP is :0
+MRR is :0
+
+Process Movie :56869
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :55684
+MAP is :0
+MRR is :0
+
+Process Movie :55687
+MAP is :0
+MRR is :0
+
+Process Movie :73323
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :73321
+MAP is :0
+MRR is :0
+
+Process Movie :68159
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :117456
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :88272
+MAP is :0
+MRR is :0
+
+Process Movie :43558
+MAP is :0
+MRR is :0
+
+Process Movie :55820
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :69784
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :51925
+MAP is :0
+MRR is :0
+
+Process Movie :51927
+MAP is :0
+MRR is :0
+
+Process Movie :116977
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :96075
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :74868
+MAP is :0
+MRR is :0
+
+Process Movie :96079
+MAP is :0
+MRR is :0
+
+Process Movie :49530
+MAP is :0
+MRR is :0
+
+Process Movie :85399
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :81819
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :64575
+MAP is :0
+MRR is :0
+
+Process Movie :95508
+MAP is :0
+MRR is :0
+
+Process Movie :85397
+MAP is :0
+MRR is :0
+
+Process Movie :85394
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :146604
+MAP is :0
+MRR is :0
+
+Process Movie :53894
+MAP is :0
+MRR is :0
+
+Process Movie :65552
+MAP is :0
+MRR is :0
+
+Process Movie :47044
+MAP is :0
+MRR is :0
+
+Process Movie :116985
+MAP is :0
+MRR is :0
+
+Process Movie :162376
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :117176
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :97254
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :82463
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :45431
+MAP is :0
+MRR is :0
+
+Process Movie :140265
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :69306
+MAP is :0
+MRR is :0
+
+Process Movie :57223
+MAP is :0
+MRR is :0
+
+Process Movie :58803
+MAP is :0
+MRR is :0
+
+Process Movie :51834
+MAP is :0
+MRR is :0
+
+Process Movie :85261
+MAP is :0
+MRR is :0
+
+Process Movie :63436
+MAP is :0
+MRR is :0
+
+Process Movie :45183
+MAP is :0
+MRR is :0
+
+Process Movie :58025
+MAP is :0
+MRR is :0
+
+Process Movie :70565
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :101884
+MAP is :0
+MRR is :0
+
+Process Movie :58029
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :62434
+MAP is :0
+MRR is :0
+
+Process Movie :62437
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :62849
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :97752
+MAP is :0
+MRR is :0
+
+Process Movie :52545
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :102217
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :116397
+MAP is :0
+MRR is :0
+
+Process Movie :56885
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :74282
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :47287
+MAP is :0
+MRR is :0
+
+Process Movie :138258
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :122932
+MAP is :0
+MRR is :0
+
+Process Movie :104760
+MAP is :0
+MRR is :0
+
+Process Movie :135887
+MAP is :0
+MRR is :0
+
+Process Movie :48817
+MAP is :0
+MRR is :0
+
+Process Movie :118985
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :113275
+MAP is :0
+MRR is :0
+
+Process Movie :45987
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :58975
+MAP is :0
+MRR is :0
+
+Process Movie :85736
+MAP is :0
+MRR is :0
+
+Process Movie :70305
+MAP is :0
+MRR is :0
+
+Process Movie :58972
+MAP is :0
+MRR is :0
+
+Process Movie :127194
+MAP is :0
+MRR is :0
+
+Process Movie :98961
+MAP is :0
+MRR is :0
+
+Process Movie :106696
+MAP is :0
+MRR is :0
+
+Process Movie :58154
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :57640
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :112277
+MAP is :0
+MRR is :0
+
+Process Movie :95720
+MAP is :0
+MRR is :0
+
+Process Movie :44587
+MAP is :0
+MRR is :0
+
+Process Movie :48262
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :85131
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :133645
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :48268
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :70762
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :70946
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :159690
+MAP is :0
+MRR is :0
+
+Process Movie :102033
+MAP is :0
+MRR is :0
+
+Process Movie :108076
+MAP is :0
+MRR is :0
+
+Process Movie :67087
+MAP is :0
+MRR is :0
+
+Process Movie :70418
+MAP is :0
+MRR is :0
+
+Process Movie :56367
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :80858
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :107636
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :97057
+MAP is :0
+MRR is :0
+
+Process Movie :53435
+MAP is :0
+MRR is :0
+
+Process Movie :58376
+MAP is :0
+MRR is :0
+
+Process Movie :104906
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :95654
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :57910
+MAP is :0
+MRR is :0
+
+Process Movie :115617
+MAP is :0
+MRR is :0
+
+Process Movie :69606
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :68659
+MAP is :0
+MRR is :0
+
+Process Movie :136816
+MAP is :0
+MRR is :0
+
+Process Movie :99764
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :78349
+MAP is :0
+MRR is :0
+
+Process Movie :69604
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :84601
+MAP is :0
+MRR is :0
+
+Process Movie :54780
+MAP is :0
+MRR is :0
+
+Process Movie :54787
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :54785
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :83374
+MAP is :0
+MRR is :0
+
+Process Movie :68872
+MAP is :0
+MRR is :0
+
+Process Movie :115122
+MAP is :0
+MRR is :0
+
+Process Movie :76030
+MAP is :0
+MRR is :0
+
+Process Movie :59519
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :112497
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :48711
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :103107
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :72998
+MAP is :0
+MRR is :0
+
+Process Movie :83086
+MAP is :0
+MRR is :0
+
+Process Movie :99615
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :66335
+MAP is :0
+MRR is :0
+
+Process Movie :94919
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :45969
+MAP is :0
+MRR is :0
+
+Process Movie :59684
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :57845
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :67997
+MAP is :0
+MRR is :0
+
+Process Movie :149532
+MAP is :0
+MRR is :0
+
+Process Movie :79185
+MAP is :0
+MRR is :0
+
+Process Movie :59995
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :78160
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :143657
+MAP is :0
+MRR is :0
+
+Process Movie :144976
+MAP is :0
+MRR is :0
+
+Process Movie :142258
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :56030
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :66686
+MAP is :0
+MRR is :0
+
+Process Movie :72209
+MAP is :0
+MRR is :0
+
+Process Movie :66934
+MAP is :0
+MRR is :0
+
+Process Movie :76251
+MAP is :0
+MRR is :0
+
+Process Movie :89840
+MAP is :0
+MRR is :0
+
+Process Movie :136562
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :157200
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :59421
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :49651
+MAP is :0
+MRR is :0
+
+Process Movie :143385
+MAP is :0
+MRR is :0
+
+Process Movie :77810
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :108090
+MAP is :0
+MRR is :0
+
+Process Movie :50442
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :50445
+MAP is :0
+MRR is :0
+
+Process Movie :95088
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :129354
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :83177
+MAP is :0
+MRR is :0
+
+Process Movie :66203
+MAP is :0
+MRR is :0
+
+Process Movie :111913
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :66200
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :126106
+MAP is :0
+MRR is :0
+
+Process Movie :91947
+MAP is :0
+MRR is :0
+
+Process Movie :66066
+MAP is :0
+MRR is :0
+
+Process Movie :118696
+MAP is :0
+MRR is :0
+
+Process Movie :78836
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :93766
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :48877
+MAP is :0
+MRR is :0
+
+Process Movie :66596
+MAP is :0
+MRR is :0
+
+Process Movie :48872
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :89118
+MAP is :0
+MRR is :0
+
+Process Movie :55071
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :91890
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :82173
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :55078
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :100450
+MAP is :0
+MRR is :0
+
+Process Movie :91548
+MAP is :0
+MRR is :0
+
+Process Movie :50842
+MAP is :0
+MRR is :0
+
+Process Movie :91542
+MAP is :0
+MRR is :0
+
+Process Movie :92163
+MAP is :0
+MRR is :0
+
+Process Movie :70465
+MAP is :0
+MRR is :0
+
+Process Movie :127164
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :61465
+MAP is :0
+MRR is :0
+
+Process Movie :103819
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :60990
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :83132
+MAP is :0
+MRR is :0
+
+Process Movie :103810
+MAP is :0
+MRR is :0
+
+Process Movie :52973
+MAP is :0
+MRR is :0
+
+Process Movie :52975
+MAP is :0
+MRR is :0
+
+Process Movie :78903
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :74677
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :149830
+MAP is :0
+MRR is :0
+
+Process Movie :96448
+MAP is :0
+MRR is :0
+
+Process Movie :69685
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :69821
+MAP is :0
+MRR is :0
+
+Process Movie :96281
+MAP is :0
+MRR is :0
+
+Process Movie :73488
+MAP is :0
+MRR is :0
+
+Process Movie :65037
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :155392
+MAP is :0
+MRR is :0
+
+Process Movie :55851
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :96667
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :52950
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :97393
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :97395
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :80736
+MAP is :0
+MRR is :0
+
+Process Movie :73319
+MAP is :0
+MRR is :0
+
+Process Movie :74416
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :74789
+MAP is :0
+MRR is :0
+
+Process Movie :81156
+MAP is :0
+MRR is :0
+
+Process Movie :51174
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :161944
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :114707
+MAP is :0
+MRR is :0
+
+Process Movie :101070
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :81158
+MAP is :0
+MRR is :0
+
+Process Movie :101076
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :74787
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :43560
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :82608
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :51773
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :56251
+MAP is :0
+MRR is :0
+
+Process Movie :65567
+MAP is :0
+MRR is :0
+
+Process Movie :81660
+MAP is :0
+MRR is :0
+
+Process Movie :81845
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :140816
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :86852
+MAP is :0
+MRR is :0
+
+Process Movie :118354
+MAP is :0
+MRR is :0
+
+Process Movie :60514
+MAP is :0
+MRR is :0
+
+Process Movie :60516
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :98083
+MAP is :0
+MRR is :0
+
+Process Movie :64969
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :69644
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :86293
+MAP is :0
+MRR is :0
+
+Process Movie :69640
+MAP is :0
+MRR is :0
+
+Process Movie :101415
+MAP is :0
+MRR is :0
+
+Process Movie :86298
+MAP is :0
+MRR is :0
+
+Process Movie :46559
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :46850
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :121126
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :101895
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :62912
+MAP is :0
+MRR is :0
+
+Process Movie :99574
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :140928
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :93838
+MAP is :0
+MRR is :0
+
+Process Movie :102684
+MAP is :0
+MRR is :0
+
+Process Movie :102686
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :81932
+MAP is :0
+MRR is :0
+
+Process Movie :93831
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :45517
+MAP is :0
+MRR is :0
+
+Process Movie :74327
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :74324
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :70183
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :122904
+MAP is :0
+MRR is :0
+
+Process Movie :139644
+MAP is :0
+MRR is :0
+
+Process Movie :122900
+MAP is :0
+MRR is :0
+
+Process Movie :139642
+MAP is :0
+MRR is :0
+
+Process Movie :122902
+MAP is :0
+MRR is :0
+
+Process Movie :112399
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :53207
+MAP is :0
+MRR is :0
+
+Process Movie :105429
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :58904
+MAP is :0
+MRR is :0
+
+Process Movie :49274
+MAP is :0
+MRR is :0
+
+Process Movie :71899
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :134859
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :49272
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :63515
+MAP is :0
+MRR is :0
+
+Process Movie :99112
+MAP is :0
+MRR is :0
+
+Process Movie :49278
+MAP is :0
+MRR is :0
+
+Process Movie :99117
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :148652
+MAP is :0
+MRR is :0
+
+Process Movie :71318
+MAP is :0
+MRR is :0
+
+Process Movie :83411
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :80463
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :90719
+MAP is :0
+MRR is :0
+
+Process Movie :84395
+MAP is :0
+MRR is :0
+
+Process Movie :90717
+MAP is :0
+MRR is :0
+
+Process Movie :58347
+MAP is :0
+MRR is :0
+
+Process Movie :71429
+MAP is :0
+MRR is :0
+
+Process Movie :80864
+MAP is :0
+MRR is :0
+
+Process Movie :101947
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :80862
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :44555
+MAP is :0
+MRR is :0
+
+Process Movie :80860
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :71131
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :44004
+MAP is :0
+MRR is :0
+
+Process Movie :84506
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :71135
+MAP is :0
+MRR is :0
+
+Process Movie :54648
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :113862
+MAP is :0
+MRR is :0
+
+Process Movie :53447
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :61236
+MAP is :0
+MRR is :0
+
+Process Movie :60343
+MAP is :0
+MRR is :0
+
+Process Movie :54220
+MAP is :0
+MRR is :0
+
+Process Movie :84615
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :105763
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :81898
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :78574
+MAP is :0
+MRR is :0
+
+Process Movie :112735
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :83349
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :78041
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :72308
+MAP is :0
+MRR is :0
+
+Process Movie :59501
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :54001
+MAP is :0
+MRR is :0
+
+Process Movie :106452
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :108795
+MAP is :0
+MRR is :0
+
+Process Movie :142240
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :104374
+MAP is :0
+MRR is :0
+
+Process Movie :44397
+MAP is :0
+MRR is :0
+
+Process Movie :59985
+MAP is :0
+MRR is :0
+
+Process Movie :68205
+MAP is :0
+MRR is :0
+
+Process Movie :78174
+MAP is :0
+MRR is :0
+
+Process Movie :79796
+MAP is :0
+MRR is :0
+
+Process Movie :47610
+MAP is :0
+MRR is :0
+
+Process Movie :109687
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :97826
+MAP is :0
+MRR is :0
+
+Process Movie :82150
+MAP is :0
+MRR is :0
+
+Process Movie :67429
+MAP is :0
+MRR is :0
+
+Process Movie :111921
+MAP is :0
+MRR is :0
+
+Process Movie :59180
+MAP is :0
+MRR is :0
+
+Process Movie :77866
+MAP is :0
+MRR is :0
+
+Process Movie :79318
+MAP is :0
+MRR is :0
+
+Process Movie :78772
+MAP is :0
+MRR is :0
+
+Process Movie :47274
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :110752
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :115139
+MAP is :0
+MRR is :0
+
+Process Movie :68848
+MAP is :0
+MRR is :0
+
+Process Movie :114552
+MAP is :0
+MRR is :0
+
+Process Movie :78829
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :47721
+MAP is :0
+MRR is :0
+
+Process Movie :91976
+MAP is :0
+MRR is :0
+
+Process Movie :91974
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :55442
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :79428
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :47728
+MAP is :0
+MRR is :0
+
+Process Movie :55444
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :89470
+MAP is :0
+MRR is :0
+
+Process Movie :82169
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :79251
+MAP is :0
+MRR is :0
+
+Process Movie :105593
+MAP is :0
+MRR is :0
+
+Process Movie :105954
+MAP is :0
+MRR is :0
+
+Process Movie :50011
+MAP is :0
+MRR is :0
+
+Process Movie :44828
+MAP is :0
+MRR is :0
+
+Process Movie :51540
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :88879
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :72947
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :79553
+MAP is :0
+MRR is :0
+
+Process Movie :89870
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :70188
+MAP is :0
+MRR is :0
+
+Process Movie :110748
+MAP is :0
+MRR is :0
+
+Process Movie :127152
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :95875
+MAP is :0
+MRR is :0
+
+Process Movie :95873
+MAP is :0
+MRR is :0
+
+Process Movie :73017
+MAP is :0
+MRR is :0
+
+Process Movie :127158
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :103865
+MAP is :0
+MRR is :0
+
+Process Movie :47122
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :130580
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :74668
+MAP is :0
+MRR is :0
+
+Process Movie :47124
+MAP is :0
+MRR is :0
+
+Process Movie :45028
+MAP is :0
+MRR is :0
+
+Process Movie :59727
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :51304
+MAP is :0
+MRR is :0
+
+Process Movie :65802
+MAP is :0
+MRR is :0
+
+Process Movie :104218
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :104211
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :60857
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :61071
+MAP is :0
+MRR is :0
+
+Process Movie :50162
+MAP is :0
+MRR is :0
+
+Process Movie :50160
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :87884
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :160954
+MAP is :0
+MRR is :0
+
+Process Movie :52378
+MAP is :0
+MRR is :0
+
+Process Movie :98369
+MAP is :0
+MRR is :0
+
+Process Movie :96490
+MAP is :0
+MRR is :0
+
+Process Movie :116823
+MAP is :0
+MRR is :0
+
+Process Movie :158314
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :139415
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :92954
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :80727
+MAP is :0
+MRR is :0
+
+Process Movie :89305
+MAP is :0
+MRR is :0
+
+Process Movie :69253
+MAP is :0
+MRR is :0
+
+Process Movie :89300
+MAP is :0
+MRR is :0
+
+Process Movie :104272
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :131168
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :74795
+MAP is :0
+MRR is :0
+
+Process Movie :92004
+MAP is :0
+MRR is :0
+
+Process Movie :55995
+MAP is :0
+MRR is :0
+
+Process Movie :55999
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :52885
+MAP is :0
+MRR is :0
+
+Process Movie :92008
+MAP is :0
+MRR is :0
+
+Process Movie :99415
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :56757
+MAP is :0
+MRR is :0
+
+Process Movie :97639
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :96726
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :65577
+MAP is :0
+MRR is :0
+
+Process Movie :81831
+MAP is :0
+MRR is :0
+
+Process Movie :96728
+MAP is :0
+MRR is :0
+
+Process Movie :46723
+MAP is :0
+MRR is :0
+
+Process Movie :81834
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :80615
+MAP is :0
+MRR is :0
+
+Process Movie :74532
+MAP is :0
+MRR is :0
+
+Process Movie :90947
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :104321
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :90430
+MAP is :0
+MRR is :0
+
+Process Movie :105769
+MAP is :0
+MRR is :0
+
+Process Movie :114601
+MAP is :0
+MRR is :0
+
+Process Movie :90439
+MAP is :0
+MRR is :0
+
+Process Movie :64997
+MAP is :0
+MRR is :0
+
+Process Movie :64990
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :64993
+MAP is :0
+MRR is :0
+
+Process Movie :74089
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :96655
+MAP is :0
+MRR is :0
+
+Process Movie :135532
+MAP is :0
+MRR is :0
+
+Process Movie :48520
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :93443
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :56333
+MAP is :0
+MRR is :0
+
+Process Movie :140247
+MAP is :0
+MRR is :0
+
+Process Movie :124859
+MAP is :0
+MRR is :0
+
+Process Movie :86911
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :56339
+MAP is :0
+MRR is :0
+
+Process Movie :98160
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :63629
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :80185
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :70545
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :52528
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :64197
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :93840
+MAP is :0
+MRR is :0
+
+Process Movie :85020
+MAP is :0
+MRR is :0
+
+Process Movie :85022
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :143472
+MAP is :0
+MRR is :0
+
+Process Movie :85025
+MAP is :0
+MRR is :0
+
+Process Movie :72226
+MAP is :0
+MRR is :0
+
+Process Movie :95744
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :90890
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :49280
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :49284
+MAP is :0
+MRR is :0
+
+Process Movie :81054
+MAP is :0
+MRR is :0
+
+Process Movie :49286
+MAP is :0
+MRR is :0
+
+Process Movie :76293
+MAP is :0
+MRR is :0
+
+Process Movie :113252
+MAP is :0
+MRR is :0
+
+Process Movie :117533
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :62344
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :113705
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :68073
+MAP is :0
+MRR is :0
+
+Process Movie :64229
+MAP is :0
+MRR is :0
+
+Process Movie :48394
+MAP is :0
+MRR is :0
+
+Process Movie :83976
+MAP is :0
+MRR is :0
+
+Process Movie :120821
+MAP is :0
+MRR is :0
+
+Process Movie :44761
+MAP is :0
+MRR is :0
+
+Process Movie :71304
+MAP is :0
+MRR is :0
+
+Process Movie :78218
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :99296
+MAP is :0
+MRR is :0
+
+Process Movie :53322
+MAP is :0
+MRR is :0
+
+Process Movie :53326
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :148482
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :138696
+MAP is :0
+MRR is :0
+
+Process Movie :85788
+MAP is :0
+MRR is :0
+
+Process Movie :58351
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :51088
+MAP is :0
+MRR is :0
+
+Process Movie :80219
+MAP is :0
+MRR is :0
+
+Process Movie :112818
+MAP is :0
+MRR is :0
+
+Process Movie :99741
+MAP is :0
+MRR is :0
+
+Process Movie :99030
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :45382
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :62764
+MAP is :0
+MRR is :0
+
+Process Movie :149606
+MAP is :0
+MRR is :0
+
+Process Movie :98587
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :155820
+MAP is :0
+MRR is :0
+
+Process Movie :57972
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :54251
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :97328
+MAP is :0
+MRR is :0
+
+Process Movie :112655
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :112653
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :54910
+MAP is :0
+MRR is :0
+
+Process Movie :84374
+MAP is :0
+MRR is :0
+
+Process Movie :54259
+MAP is :0
+MRR is :0
+
+Process Movie :70898
+MAP is :0
+MRR is :0
+
+Process Movie :158783
+MAP is :0
+MRR is :0
+
+Process Movie :72683
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :71057
+MAP is :0
+MRR is :0
+
+Process Movie :83359
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :78544
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :132888
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :47465
+MAP is :0
+MRR is :0
+
+Process Movie :90357
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :67193
+MAP is :0
+MRR is :0
+
+Process Movie :87660
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :112175
+MAP is :0
+MRR is :0
+
+Process Movie :45728
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :48738
+MAP is :0
+MRR is :0
+
+Process Movie :50742
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :94939
+MAP is :0
+MRR is :0
+
+Process Movie :107141
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :94931
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :86593
+MAP is :0
+MRR is :0
+
+Process Movie :91414
+MAP is :0
+MRR is :0
+
+Process Movie :71433
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :76303
+MAP is :0
+MRR is :0
+
+Process Movie :79163
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :142507
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :97994
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :89047
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :89045
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :66665
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :115569
+MAP is :0
+MRR is :0
+
+Process Movie :66915
+MAP is :0
+MRR is :0
+
+Process Movie :81229
+MAP is :0
+MRR is :0
+
+Process Movie :47606
+MAP is :0
+MRR is :0
+
+Process Movie :77307
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :108506
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :44193
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :111931
+MAP is :0
+MRR is :0
+
+Process Movie :101531
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :73808
+MAP is :0
+MRR is :0
+
+Process Movie :95067
+MAP is :0
+MRR is :0
+
+Process Movie :98175
+MAP is :0
+MRR is :0
+
+Process Movie :157407
+MAP is :0
+MRR is :0
+
+Process Movie :115147
+MAP is :0
+MRR is :0
+
+Process Movie :72043
+MAP is :0
+MRR is :0
+
+Process Movie :47261
+MAP is :0
+MRR is :0
+
+Process Movie :115149
+MAP is :0
+MRR is :0
+
+Process Movie :51931
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :100106
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :88405
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :50954
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :110645
+MAP is :0
+MRR is :0
+
+Process Movie :132157
+MAP is :0
+MRR is :0
+
+Process Movie :93700
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :109740
+MAP is :0
+MRR is :0
+
+Process Movie :109742
+MAP is :0
+MRR is :0
+
+Process Movie :160565
+MAP is :0
+MRR is :0
+
+Process Movie :160563
+MAP is :0
+MRR is :0
+
+Process Movie :103655
+MAP is :0
+MRR is :0
+
+Process Movie :50005
+MAP is :0
+MRR is :0
+
+Process Movie :103659
+MAP is :0
+MRR is :0
+
+Process Movie :55052
+MAP is :0
+MRR is :0
+
+Process Movie :107314
+MAP is :0
+MRR is :0
+
+Process Movie :51575
+MAP is :0
+MRR is :0
+
+Process Movie :112582
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :95780
+MAP is :0
+MRR is :0
+
+Process Movie :50792
+MAP is :0
+MRR is :0
+
+Process Movie :129937
+MAP is :0
+MRR is :0
+
+Process Movie :72224
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :76272
+MAP is :0
+MRR is :0
+
+Process Movie :110882
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :50798
+MAP is :0
+MRR is :0
+
+Process Movie :92494
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :92496
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :73572
+MAP is :0
+MRR is :0
+
+Process Movie :78967
+MAP is :0
+MRR is :0
+
+Process Movie :48982
+MAP is :0
+MRR is :0
+
+Process Movie :110461
+MAP is :0
+MRR is :0
+
+Process Movie :69805
+MAP is :0
+MRR is :0
+
+Process Movie :130576
+MAP is :0
+MRR is :0
+
+Process Movie :52952
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :86059
+MAP is :0
+MRR is :0
+
+Process Movie :79134
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :100272
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :107953
+MAP is :0
+MRR is :0
+
+Process Movie :58655
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :127096
+MAP is :0
+MRR is :0
+
+Process Movie :127098
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :89260
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :94015
+MAP is :0
+MRR is :0
+
+Process Movie :96467
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :130970
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :116207
+MAP is :0
+MRR is :0
+
+Process Movie :55451
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :103279
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :87876
+MAP is :0
+MRR is :0
+
+Process Movie :120783
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :96488
+MAP is :0
+MRR is :0
+
+Process Movie :130351
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :81132
+MAP is :0
+MRR is :0
+
+Process Movie :70994
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :69241
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :77455
+MAP is :0
+MRR is :0
+
+Process Movie :81138
+MAP is :0
+MRR is :0
+
+Process Movie :114762
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :69481
+MAP is :0
+MRR is :0
+
+Process Movie :55232
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :61289
+MAP is :0
+MRR is :0
+
+Process Movie :100306
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :51207
+MAP is :0
+MRR is :0
+
+Process Movie :93855
+MAP is :0
+MRR is :0
+
+Process Movie :96007
+MAP is :0
+MRR is :0
+
+Process Movie :96004
+MAP is :0
+MRR is :0
+
+Process Movie :43744
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :64508
+MAP is :0
+MRR is :0
+
+Process Movie :69069
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :106204
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :79242
+MAP is :0
+MRR is :0
+
+Process Movie :65585
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :86833
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :50740
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :96737
+MAP is :0
+MRR is :0
+
+Process Movie :60086
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :86835
+MAP is :0
+MRR is :0
+
+Process Movie :74508
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :130628
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :64695
+MAP is :0
+MRR is :0
+
+Process Movie :149354
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :99912
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :149352
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :99917
+MAP is :0
+MRR is :0
+
+Process Movie :117123
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :90428
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :117121
+MAP is :0
+MRR is :0
+
+Process Movie :64983
+MAP is :0
+MRR is :0
+
+Process Movie :71462
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :82934
+MAP is :0
+MRR is :0
+
+Process Movie :135508
+MAP is :0
+MRR is :0
+
+Process Movie :43904
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :82931
+MAP is :0
+MRR is :0
+
+Process Movie :82242
+MAP is :0
+MRR is :0
+
+Process Movie :43908
+MAP is :0
+MRR is :0
+
+Process Movie :52319
+MAP is :0
+MRR is :0
+
+Process Movie :140725
+MAP is :0
+MRR is :0
+
+Process Movie :81910
+MAP is :0
+MRR is :0
+
+Process Movie :86377
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :45179
+MAP is :0
+MRR is :0
+
+Process Movie :45172
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :69118
+MAP is :0
+MRR is :0
+
+Process Movie :118248
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :106330
+MAP is :0
+MRR is :0
+
+Process Movie :106332
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :70159
+MAP is :0
+MRR is :0
+
+Process Movie :113064
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :138208
+MAP is :0
+MRR is :0
+
+Process Movie :67255
+MAP is :0
+MRR is :0
+
+Process Movie :118082
+MAP is :0
+MRR is :0
+
+Process Movie :138204
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :79946
+MAP is :0
+MRR is :0
+
+Process Movie :47894
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :114795
+MAP is :0
+MRR is :0
+
+Process Movie :109374
+MAP is :0
+MRR is :0
+
+Process Movie :53133
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :90888
+MAP is :0
+MRR is :0
+
+Process Movie :43635
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :139620
+MAP is :0
+MRR is :0
+
+Process Movie :130452
+MAP is :0
+MRR is :0
+
+Process Movie :85342
+MAP is :0
+MRR is :0
+
+Process Movie :90376
+MAP is :0
+MRR is :0
+
+Process Movie :58103
+MAP is :0
+MRR is :0
+
+Process Movie :58105
+MAP is :0
+MRR is :0
+
+Process Movie :96861
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :58107
+MAP is :0
+MRR is :0
+
+Process Movie :62378
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :62376
+MAP is :0
+MRR is :0
+
+Process Movie :62374
+MAP is :0
+MRR is :0
+
+Process Movie :46972
+MAP is :0
+MRR is :0
+
+Process Movie :46970
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :46976
+MAP is :0
+MRR is :0
+
+Process Movie :53138
+MAP is :0
+MRR is :0
+
+Process Movie :107555
+MAP is :0
+MRR is :0
+
+Process Movie :48385
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :78209
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :106022
+MAP is :0
+MRR is :0
+
+Process Movie :118880
+MAP is :0
+MRR is :0
+
+Process Movie :141749
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :46574
+MAP is :0
+MRR is :0
+
+Process Movie :84187
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :57368
+MAP is :0
+MRR is :0
+
+Process Movie :86781
+MAP is :0
+MRR is :0
+
+Process Movie :128606
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :46578
+MAP is :0
+MRR is :0
+
+Process Movie :53466
+MAP is :0
+MRR is :0
+
+Process Movie :48032
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :53464
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :45000
+MAP is :0
+MRR is :0
+
+Process Movie :53460
+MAP is :0
+MRR is :0
+
+Process Movie :44022
+MAP is :0
+MRR is :0
+
+Process Movie :90374
+MAP is :0
+MRR is :0
+
+Process Movie :53468
+MAP is :0
+MRR is :0
+
+Process Movie :113573
+MAP is :0
+MRR is :0
+
+Process Movie :99007
+MAP is :0
+MRR is :0
+
+Process Movie :99005
+MAP is :0
+MRR is :0
+
+Process Movie :132074
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :149612
+MAP is :0
+MRR is :0
+
+Process Movie :80083
+MAP is :0
+MRR is :0
+
+Process Movie :63853
+MAP is :0
+MRR is :0
+
+Process Movie :51091
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :96863
+MAP is :0
+MRR is :0
+
+Process Movie :49817
+MAP is :0
+MRR is :0
+
+Process Movie :63179
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :112623
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :58293
+MAP is :0
+MRR is :0
+
+Process Movie :58295
+MAP is :0
+MRR is :0
+
+Process Movie :58297
+MAP is :0
+MRR is :0
+
+Process Movie :58299
+MAP is :0
+MRR is :0
+
+Process Movie :146501
+MAP is :0
+MRR is :0
+
+Process Movie :68194
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :71205
+MAP is :0
+MRR is :0
+
+Process Movie :68444
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :84414
+MAP is :0
+MRR is :0
+
+Process Movie :133545
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :103253
+MAP is :0
+MRR is :0
+
+Process Movie :50651
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :62155
+MAP is :0
+MRR is :0
+
+Process Movie :87485
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :113938
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :95115
+MAP is :0
+MRR is :0
+
+Process Movie :62394
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :65133
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :115713
+MAP is :0
+MRR is :0
+
+Process Movie :95113
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :107771
+MAP is :0
+MRR is :0
+
+Process Movie :90343
+MAP is :0
+MRR is :0
+
+Process Movie :67295
+MAP is :0
+MRR is :0
+
+Process Movie :83829
+MAP is :0
+MRR is :0
+
+Process Movie :45950
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :106766
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :67504
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :102792
+MAP is :0
+MRR is :0
+
+Process Movie :147037
+MAP is :0
+MRR is :0
+
+Process Movie :63239
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :137595
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :46974
+MAP is :0
+MRR is :0
+
+Process Movie :89072
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :106542
+MAP is :0
+MRR is :0
+
+Process Movie :106540
+MAP is :0
+MRR is :0
+
+Process Movie :59418
+MAP is :0
+MRR is :0
+
+Process Movie :89678
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :91286
+MAP is :0
+MRR is :0
+
+Process Movie :108514
+MAP is :0
+MRR is :0
+
+Process Movie :106782
+MAP is :0
+MRR is :0
+
+Process Movie :58432
+MAP is :0
+MRR is :0
+
+Process Movie :77846
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :106839
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :76060
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :115151
+MAP is :0
+MRR is :0
+
+Process Movie :94896
+MAP is :0
+MRR is :0
+
+Process Movie :68536
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :77201
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :66019
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :115881
+MAP is :0
+MRR is :0
+
+Process Movie :77206
+MAP is :0
+MRR is :0
+
+Process Movie :110655
+MAP is :0
+MRR is :0
+
+Process Movie :72367
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :118924
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :44849
+MAP is :0
+MRR is :0
+
+Process Movie :59258
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :115170
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :44840
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :127319
+MAP is :0
+MRR is :0
+
+Process Movie :79203
+MAP is :0
+MRR is :0
+
+Process Movie :106491
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :129250
+MAP is :0
+MRR is :0
+
+Process Movie :91355
+MAP is :0
+MRR is :0
+
+Process Movie :68884
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :111384
+MAP is :0
+MRR is :0
+
+Process Movie :72781
+MAP is :0
+MRR is :0
+
+Process Movie :95858
+MAP is :0
+MRR is :0
+
+Process Movie :50583
+MAP is :0
+MRR is :0
+
+Process Movie :61123
+MAP is :0
+MRR is :0
+
+Process Movie :127136
+MAP is :0
+MRR is :0
+
+Process Movie :74649
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :103688
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :55732
+MAP is :0
+MRR is :0
+
+Process Movie :47148
+MAP is :0
+MRR is :0
+
+Process Movie :72762
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :86028
+MAP is :0
+MRR is :0
+
+Process Movie :51698
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :105844
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :107945
+MAP is :0
+MRR is :0
+
+Process Movie :89090
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :82037
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :77191
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :130960
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :61729
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :88785
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :136018
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :120799
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :143255
+MAP is :0
+MRR is :0
+
+Process Movie :55555
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :92938
+MAP is :0
+MRR is :0
+
+Process Movie :143257
+MAP is :0
+MRR is :0
+
+Process Movie :114028
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :93422
+MAP is :0
+MRR is :0
+
+Process Movie :93040
+MAP is :0
+MRR is :0
+
+Process Movie :89321
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :163056
+MAP is :0
+MRR is :0
+
+Process Movie :69495
+MAP is :0
+MRR is :0
+
+Process Movie :69278
+MAP is :0
+MRR is :0
+
+Process Movie :77421
+MAP is :0
+MRR is :0
+
+Process Movie :130490
+MAP is :0
+MRR is :0
+
+Process Movie :69275
+MAP is :0
+MRR is :0
+
+Process Movie :77427
+MAP is :0
+MRR is :0
+
+Process Movie :86332
+MAP is :0
+MRR is :0
+
+Process Movie :93287
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :44864
+MAP is :0
+MRR is :0
+
+Process Movie :104590
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :104597
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :106236
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :85881
+MAP is :0
+MRR is :0
+
+Process Movie :52435
+MAP is :0
+MRR is :0
+
+Process Movie :130634
+MAP is :0
+MRR is :0
+
+Process Movie :73211
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :56286
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :74510
+MAP is :0
+MRR is :0
+
+Process Movie :108729
+MAP is :0
+MRR is :0
+
+Process Movie :88125
+MAP is :0
+MRR is :0
+
+Process Movie :140739
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :88129
+MAP is :0
+MRR is :0
+
+Process Movie :43910
+MAP is :0
+MRR is :0
+
+Process Movie :135518
+MAP is :0
+MRR is :0
+
+Process Movie :43917
+MAP is :0
+MRR is :0
+
+Process Movie :56607
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :43919
+MAP is :0
+MRR is :0
+
+Process Movie :45499
+MAP is :0
+MRR is :0
+
+Process Movie :95473
+MAP is :0
+MRR is :0
+
+Process Movie :98230
+MAP is :0
+MRR is :0
+
+Process Movie :56152
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :95475
+MAP is :0
+MRR is :0
+
+Process Movie :134393
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :95782
+MAP is :0
+MRR is :0
+
+Process Movie :88118
+MAP is :0
+MRR is :0
+
+Process Movie :135268
+MAP is :0
+MRR is :0
+
+Process Movie :116660
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :102819
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :62718
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :134246
+MAP is :0
+MRR is :0
+
+Process Movie :53123
+MAP is :0
+MRR is :0
+
+Process Movie :53121
+MAP is :0
+MRR is :0
+
+Process Movie :69720
+MAP is :0
+MRR is :0
+
+Process Movie :99839
+MAP is :0
+MRR is :0
+
+Process Movie :53129
+MAP is :0
+MRR is :0
+
+Process Movie :96811
+MAP is :0
+MRR is :0
+
+Process Movie :96815
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :90345
+MAP is :0
+MRR is :0
+
+Process Movie :63540
+MAP is :0
+MRR is :0
+
+Process Movie :97870
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :95167
+MAP is :0
+MRR is :0
+
+Process Movie :94677
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :106011
+MAP is :0
+MRR is :0
+
+Process Movie :46965
+MAP is :0
+MRR is :0
+
+Process Movie :135861
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :102252
+MAP is :0
+MRR is :0
+
+Process Movie :90746
+MAP is :0
+MRR is :0
+
+Process Movie :118898
+MAP is :0
+MRR is :0
+
+Process Movie :94070
+MAP is :0
+MRR is :0
+
+Process Movie :120805
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :118890
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :84772
+MAP is :0
+MRR is :0
+
+Process Movie :46561
+MAP is :0
+MRR is :0
+
+Process Movie :85179
+MAP is :0
+MRR is :0
+
+Process Movie :49396
+MAP is :0
+MRR is :0
+
+Process Movie :49394
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :105213
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :105211
+MAP is :0
+MRR is :0
+
+Process Movie :87192
+MAP is :0
+MRR is :0
+
+Process Movie :113345
+MAP is :0
+MRR is :0
+
+Process Movie :104944
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :113348
+MAP is :0
+MRR is :0
+
+Process Movie :112290
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :91094
+MAP is :0
+MRR is :0
+
+Process Movie :129737
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :57951
+MAP is :0
+MRR is :0
+
+Process Movie :79592
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :98836
+MAP is :0
+MRR is :0
+
+Process Movie :71211
+MAP is :0
+MRR is :0
+
+Process Movie :103444
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :45726
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :85774
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :122888
+MAP is :0
+MRR is :0
+
+Process Movie :45720
+MAP is :0
+MRR is :0
+
+Process Movie :54276
+MAP is :0
+MRR is :0
+
+Process Movie :122886
+MAP is :0
+MRR is :0
+
+Process Movie :44633
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :122882
+MAP is :0
+MRR is :0
+
+Process Movie :112749
+MAP is :0
+MRR is :0
+
+Process Movie :134881
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :108188
+MAP is :0
+MRR is :0
+
+Process Movie :83332
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :54290
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :115624
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :74530
+MAP is :0
+MRR is :0
+
+Process Movie :129009
+MAP is :0
+MRR is :0
+
+Process Movie :49932
+MAP is :0
+MRR is :0
+
+Process Movie :62383
+MAP is :0
+MRR is :0
+
+Process Movie :68237
+MAP is :0
+MRR is :0
+
+Process Movie :107769
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :61026
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :71102
+MAP is :0
+MRR is :0
+
+Process Movie :148626
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :71106
+MAP is :0
+MRR is :0
+
+Process Movie :97817
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :71108
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :132952
+MAP is :0
+MRR is :0
+
+Process Movie :126548
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :67267
+MAP is :0
+MRR is :0
+
+Process Movie :78637
+MAP is :0
+MRR is :0
+
+Process Movie :70336
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :115502
+MAP is :0
+MRR is :0
+
+Process Movie :83361
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :59392
+MAP is :0
+MRR is :0
+
+Process Movie :47937
+MAP is :0
+MRR is :0
+
+Process Movie :86487
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :129313
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :149406
+MAP is :0
+MRR is :0
+
+Process Movie :110730
+MAP is :0
+MRR is :0
+
+Process Movie :122890
+MAP is :0
+MRR is :0
+
+Process Movie :76077
+MAP is :0
+MRR is :0
+
+Process Movie :60293
+MAP is :0
+MRR is :0
+
+Process Movie :115216
+MAP is :0
+MRR is :0
+
+Process Movie :72378
+MAP is :0
+MRR is :0
+
+Process Movie :115210
+MAP is :0
+MRR is :0
+
+Process Movie :47714
+MAP is :0
+MRR is :0
+
+Process Movie :66808
+MAP is :0
+MRR is :0
+
+Process Movie :111249
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :88932
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :89408
+MAP is :0
+MRR is :0
+
+Process Movie :93721
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :67867
+MAP is :0
+MRR is :0
+
+Process Movie :103671
+MAP is :0
+MRR is :0
+
+Process Movie :91582
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :111624
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :111622
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :106489
+MAP is :0
+MRR is :0
+
+Process Movie :106487
+MAP is :0
+MRR is :0
+
+Process Movie :47629
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :50802
+MAP is :0
+MRR is :0
+
+Process Movie :50804
+MAP is :0
+MRR is :0
+
+Process Movie :91610
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :89881
+MAP is :0
+MRR is :0
+
+Process Movie :126430
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :74630
+MAP is :0
+MRR is :0
+
+Process Movie :108583
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :86290
+MAP is :0
+MRR is :0
+
+Process Movie :55094
+MAP is :0
+MRR is :0
+
+Process Movie :88682
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :127124
+MAP is :0
+MRR is :0
+
+Process Movie :55721
+MAP is :0
+MRR is :0
+
+Process Movie :118702
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :118700
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :47152
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :89087
+MAP is :0
+MRR is :0
+
+Process Movie :87529
+MAP is :0
+MRR is :0
+
+Process Movie :89085
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :107978
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :109161
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :100527
+MAP is :0
+MRR is :0
+
+Process Movie :87520
+MAP is :0
+MRR is :0
+
+Process Movie :119655
+MAP is :0
+MRR is :0
+
+Process Movie :97304
+MAP is :0
+MRR is :0
+
+Process Movie :103210
+MAP is :0
+MRR is :0
+
+Process Movie :72489
+MAP is :0
+MRR is :0
+
+Process Movie :56169
+MAP is :0
+MRR is :0
+
+Process Movie :127052
+MAP is :0
+MRR is :0
+
+Process Movie :117851
+MAP is :0
+MRR is :0
+
+Process Movie :87430
+MAP is :0
+MRR is :0
+
+Process Movie :131796
+MAP is :0
+MRR is :0
+
+Process Movie :74740
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :96020
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :84952
+MAP is :0
+MRR is :0
+
+Process Movie :56563
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :104312
+MAP is :0
+MRR is :0
+
+Process Movie :82313
+MAP is :0
+MRR is :0
+
+Process Movie :114180
+MAP is :0
+MRR is :0
+
+Process Movie :78893
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :89337
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :86320
+MAP is :0
+MRR is :0
+
+Process Movie :77435
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :92058
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :61132
+MAP is :0
+MRR is :0
+
+Process Movie :103502
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :60950
+MAP is :0
+MRR is :0
+
+Process Movie :100326
+MAP is :0
+MRR is :0
+
+Process Movie :75341
+MAP is :0
+MRR is :0
+
+Process Movie :45210
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :75349
+MAP is :0
+MRR is :0
+
+Process Movie :55946
+MAP is :0
+MRR is :0
+
+Process Movie :117107
+MAP is :0
+MRR is :0
+
+Process Movie :104662
+MAP is :0
+MRR is :0
+
+Process Movie :148238
+MAP is :0
+MRR is :0
+
+Process Movie :112850
+MAP is :0
+MRR is :0
+
+Process Movie :140741
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :140747
+MAP is :0
+MRR is :0
+
+Process Movie :97757
+MAP is :0
+MRR is :0
+
+Process Movie :140745
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :114635
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :90403
+MAP is :0
+MRR is :0
+
+Process Movie :128520
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :90405
+MAP is :0
+MRR is :0
+
+Process Movie :55895
+MAP is :0
+MRR is :0
+
+Process Movie :100745
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :116855
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :79469
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :43928
+MAP is :0
+MRR is :0
+
+Process Movie :96114
+MAP is :0
+MRR is :0
+
+Process Movie :96110
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :43921
+MAP is :0
+MRR is :0
+
+Process Movie :56015
+MAP is :0
+MRR is :0
+
+Process Movie :95449
+MAP is :0
+MRR is :0
+
+Process Movie :69134
+MAP is :0
+MRR is :0
+
+Process Movie :95443
+MAP is :0
+MRR is :0
+
+Process Movie :61248
+MAP is :0
+MRR is :0
+
+Process Movie :95441
+MAP is :0
+MRR is :0
+
+Process Movie :95752
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :161594
+MAP is :0
+MRR is :0
+
+Process Movie :102800
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :133281
+MAP is :0
+MRR is :0
+
+Process Movie :118260
+MAP is :0
+MRR is :0
+
+Process Movie :90576
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :49013
+MAP is :0
+MRR is :0
+
+Process Movie :46772
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :93980
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :81847
+MAP is :0
+MRR is :0
+
+Process Movie :93982
+MAP is :0
+MRR is :0
+
+Process Movie :86817
+MAP is :0
+MRR is :0
+
+Process Movie :80241
+MAP is :0
+MRR is :0
+
+Process Movie :85367
+MAP is :0
+MRR is :0
+
+Process Movie :128235
+MAP is :0
+MRR is :0
+
+Process Movie :84098
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :58889
+MAP is :0
+MRR is :0
+
+Process Movie :162672
+MAP is :0
+MRR is :0
+
+Process Movie :113220
+MAP is :0
+MRR is :0
+
+Process Movie :137857
+MAP is :0
+MRR is :0
+
+Process Movie :113225
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :63808
+MAP is :0
+MRR is :0
+
+Process Movie :46919
+MAP is :0
+MRR is :0
+
+Process Movie :106002
+MAP is :0
+MRR is :0
+
+Process Movie :51935
+MAP is :0
+MRR is :0
+
+Process Movie :106004
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :52604
+MAP is :0
+MRR is :0
+
+Process Movie :52606
+MAP is :0
+MRR is :0
+
+Process Movie :101904
+MAP is :0
+MRR is :0
+
+Process Movie :56941
+MAP is :0
+MRR is :0
+
+Process Movie :98458
+MAP is :0
+MRR is :0
+
+Process Movie :56949
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :44731
+MAP is :0
+MRR is :0
+
+Process Movie :70533
+MAP is :0
+MRR is :0
+
+Process Movie :102481
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :62956
+MAP is :0
+MRR is :0
+
+Process Movie :113640
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :84160
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :59721
+MAP is :0
+MRR is :0
+
+Process Movie :62733
+MAP is :0
+MRR is :0
+
+Process Movie :71668
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :59725
+MAP is :0
+MRR is :0
+
+Process Movie :113829
+MAP is :0
+MRR is :0
+
+Process Movie :142192
+MAP is :0
+MRR is :0
+
+Process Movie :112515
+MAP is :0
+MRR is :0
+
+Process Movie :152173
+MAP is :0
+MRR is :0
+
+Process Movie :78088
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :48522
+MAP is :0
+MRR is :0
+
+Process Movie :63393
+MAP is :0
+MRR is :0
+
+Process Movie :99795
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :78316
+MAP is :0
+MRR is :0
+
+Process Movie :71264
+MAP is :0
+MRR is :0
+
+Process Movie :60609
+MAP is :0
+MRR is :0
+
+Process Movie :98829
+MAP is :0
+MRR is :0
+
+Process Movie :45730
+MAP is :0
+MRR is :0
+
+Process Movie :91673
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :45732
+MAP is :0
+MRR is :0
+
+Process Movie :142068
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :102666
+MAP is :0
+MRR is :0
+
+Process Movie :105468
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :84304
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :54736
+MAP is :0
+MRR is :0
+
+Process Movie :54734
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :109359
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :54732
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :112171
+MAP is :0
+MRR is :0
+
+Process Movie :47202
+MAP is :0
+MRR is :0
+
+Process Movie :108190
+MAP is :0
+MRR is :0
+
+Process Movie :54286
+MAP is :0
+MRR is :0
+
+Process Movie :58706
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :44191
+MAP is :0
+MRR is :0
+
+Process Movie :44197
+MAP is :0
+MRR is :0
+
+Process Movie :68838
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :44195
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :54281
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :104243
+MAP is :0
+MRR is :0
+
+Process Movie :44199
+MAP is :0
+MRR is :0
+
+Process Movie :48741
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :99669
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :79132
+MAP is :0
+MRR is :0
+
+Process Movie :104241
+MAP is :0
+MRR is :0
+
+Process Movie :95135
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :79136
+MAP is :0
+MRR is :0
+
+Process Movie :104881
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :99468
+MAP is :0
+MRR is :0
+
+Process Movie :84236
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :44511
+MAP is :0
+MRR is :0
+
+Process Movie :71468
+MAP is :0
+MRR is :0
+
+Process Movie :71466
+MAP is :0
+MRR is :0
+
+Process Movie :71464
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :133419
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :71460
+MAP is :0
+MRR is :0
+
+Process Movie :67252
+MAP is :0
+MRR is :0
+
+Process Movie :72169
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :59387
+MAP is :0
+MRR is :0
+
+Process Movie :132547
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :68952
+MAP is :0
+MRR is :0
+
+Process Movie :132549
+MAP is :0
+MRR is :0
+
+Process Movie :142536
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :68959
+MAP is :0
+MRR is :0
+
+Process Movie :109372
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :147010
+MAP is :0
+MRR is :0
+
+Process Movie :103048
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :109578
+MAP is :0
+MRR is :0
+
+Process Movie :109576
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :103042
+MAP is :0
+MRR is :0
+
+Process Movie :62049
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :110453
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :129653
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :129657
+MAP is :0
+MRR is :0
+
+Process Movie :129659
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :79686
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :106762
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :123695
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :142448
+MAP is :0
+MRR is :0
+
+Process Movie :68554
+MAP is :0
+MRR is :0
+
+Process Movie :72011
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :115174
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :47099
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :47092
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :59846
+MAP is :0
+MRR is :0
+
+Process Movie :59273
+MAP is :0
+MRR is :0
+
+Process Movie :82499
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :87444
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :150856
+MAP is :0
+MRR is :0
+
+Process Movie :128592
+MAP is :0
+MRR is :0
+
+Process Movie :86142
+MAP is :0
+MRR is :0
+
+Process Movie :109483
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :61634
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :109487
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :103449
+MAP is :0
+MRR is :0
+
+Process Movie :91628
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :91622
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :111659
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :110871
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :47382
+MAP is :0
+MRR is :0
+
+Process Movie :131830
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :151307
+MAP is :0
+MRR is :0
+
+Process Movie :65130
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :74624
+MAP is :0
+MRR is :0
+
+Process Movie :96849
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :126420
+MAP is :0
+MRR is :0
+
+Process Movie :72741
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :67923
+MAP is :0
+MRR is :0
+
+Process Movie :131013
+MAP is :0
+MRR is :0
+
+Process Movie :86000
+MAP is :0
+MRR is :0
+
+Process Movie :48997
+MAP is :0
+MRR is :0
+
+Process Movie :103221
+MAP is :0
+MRR is :0
+
+Process Movie :103228
+MAP is :0
+MRR is :0
+
+Process Movie :99114
+MAP is :0
+MRR is :0
+
+Process Movie :73168
+MAP is :0
+MRR is :0
+
+Process Movie :91935
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :134853
+MAP is :0
+MRR is :0
+
+Process Movie :127202
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :55156
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :127204
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :61705
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :116136
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :140237
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :73344
+MAP is :0
+MRR is :0
+
+Process Movie :142997
+MAP is :0
+MRR is :0
+
+Process Movie :56176
+MAP is :0
+MRR is :0
+
+Process Movie :110297
+MAP is :0
+MRR is :0
+
+Process Movie :94959
+MAP is :0
+MRR is :0
+
+Process Movie :135264
+MAP is :0
+MRR is :0
+
+Process Movie :56171
+MAP is :0
+MRR is :0
+
+Process Movie :88744
+MAP is :0
+MRR is :0
+
+Process Movie :111505
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :140110
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :74754
+MAP is :0
+MRR is :0
+
+Process Movie :66371
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :161084
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :96588
+MAP is :0
+MRR is :0
+
+Process Movie :84944
+MAP is :0
+MRR is :0
+
+Process Movie :94480
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :89343
+MAP is :0
+MRR is :0
+
+Process Movie :132618
+MAP is :0
+MRR is :0
+
+Process Movie :93061
+MAP is :0
+MRR is :0
+
+Process Movie :148956
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :127114
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :92048
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :69458
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :93265
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :103539
+MAP is :0
+MRR is :0
+
+Process Movie :140880
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :60943
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :96565
+MAP is :0
+MRR is :0
+
+Process Movie :120466
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :96563
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :75805
+MAP is :0
+MRR is :0
+
+Process Movie :75803
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :56715
+MAP is :0
+MRR is :0
+
+Process Movie :117444
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :81782
+MAP is :0
+MRR is :0
+
+Process Movie :60384
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :81784
+MAP is :0
+MRR is :0
+
+Process Movie :81786
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :81788
+MAP is :0
+MRR is :0
+
+Process Movie :105121
+MAP is :0
+MRR is :0
+
+Process Movie :140753
+MAP is :0
+MRR is :0
+
+Process Movie :140755
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :140757
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :140759
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :88106
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :111251
+MAP is :0
+MRR is :0
+
+Process Movie :89864
+MAP is :0
+MRR is :0
+
+Process Movie :55577
+MAP is :0
+MRR is :0
+
+Process Movie :117590
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :43930
+MAP is :0
+MRR is :0
+
+Process Movie :96691
+MAP is :0
+MRR is :0
+
+Process Movie :43936
+MAP is :0
+MRR is :0
+
+Process Movie :97742
+MAP is :0
+MRR is :0
+
+Process Movie :99320
+MAP is :0
+MRR is :0
+
+Process Movie :144714
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :56003
+MAP is :0
+MRR is :0
+
+Process Movie :57532
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :49132
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :88267
+MAP is :0
+MRR is :0
+
+Process Movie :49647
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :74370
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :116887
+MAP is :0
+MRR is :0
+
+Process Movie :93363
+MAP is :0
+MRR is :0
+
+Process Movie :60161
+MAP is :0
+MRR is :0
+
+Process Movie :97744
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :99813
+MAP is :0
+MRR is :0
+
+Process Movie :51357
+MAP is :0
+MRR is :0
+
+Process Movie :101577
+MAP is :0
+MRR is :0
+
+Process Movie :132146
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :52456
+MAP is :0
+MRR is :0
+
+Process Movie :52458
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :102588
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :78111
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :63836
+MAP is :0
+MRR is :0
+
+Process Movie :87205
+MAP is :0
+MRR is :0
+
+Process Movie :96832
+MAP is :0
+MRR is :0
+
+Process Movie :101864
+MAP is :0
+MRR is :0
+
+Process Movie :127206
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :104913
+MAP is :0
+MRR is :0
+
+Process Movie :49220
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :141886
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :77364
+MAP is :0
+MRR is :0
+
+Process Movie :49225
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :105585
+MAP is :0
+MRR is :0
+
+Process Movie :102278
+MAP is :0
+MRR is :0
+
+Process Movie :112804
+MAP is :0
+MRR is :0
+
+Process Movie :60763
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :60760
+MAP is :0
+MRR is :0
+
+Process Movie :79868
+MAP is :0
+MRR is :0
+
+Process Movie :60766
+MAP is :0.543333333333
+MRR is :0.256666666667
+
+Process Movie :102903
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :146688
+MAP is :0
+MRR is :0
+
+Process Movie :84152
+MAP is :0
+MRR is :0
+
+Process Movie :146682
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :56274
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :58627
+MAP is :0
+MRR is :0
+
+Process Movie :72395
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :97188
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :49822
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :48518
+MAP is :0
+MRR is :0
+
+Process Movie :49824
+MAP is :0
+MRR is :0
+
+Process Movie :45837
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :43932
+MAP is :0
+MRR is :0
+
+Process Movie :44613
+MAP is :0
+MRR is :0
+
+Process Movie :112183
+MAP is :0
+MRR is :0
+
+Process Movie :83827
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :106100
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :107069
+MAP is :0
+MRR is :0
+
+Process Movie :72165
+MAP is :0
+MRR is :0
+
+Process Movie :82378
+MAP is :0
+MRR is :0
+
+Process Movie :113741
+MAP is :0
+MRR is :0
+
+Process Movie :48198
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :85796
+MAP is :0
+MRR is :0
+
+Process Movie :138546
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :71876
+MAP is :0
+MRR is :0
+
+Process Movie :48774
+MAP is :0
+MRR is :0
+
+Process Movie :102125
+MAP is :0
+MRR is :0
+
+Process Movie :49649
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :59669
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :140751
+MAP is :0
+MRR is :0
+
+Process Movie :94466
+MAP is :0
+MRR is :0
+
+Process Movie :99675
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :91104
+MAP is :0
+MRR is :0
+
+Process Movie :80906
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :99470
+MAP is :0
+MRR is :0
+
+Process Movie :49917
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :49910
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :68099
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :102720
+MAP is :0
+MRR is :0
+
+Process Movie :59447
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :46347
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :71700
+MAP is :0
+MRR is :0
+
+Process Movie :97921
+MAP is :0
+MRR is :0
+
+Process Movie :136654
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :108548
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :71494
+MAP is :0
+MRR is :0
+
+Process Movie :71490
+MAP is :0
+MRR is :0
+
+Process Movie :47952
+MAP is :0
+MRR is :0
+
+Process Movie :47950
+MAP is :0
+MRR is :0
+
+Process Movie :111228
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :116939
+MAP is :0
+MRR is :0
+
+Process Movie :79695
+MAP is :0
+MRR is :0
+
+Process Movie :47423
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :112767
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :83318
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :79057
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :94864
+MAP is :0
+MRR is :0
+
+Process Movie :76054
+MAP is :0
+MRR is :0
+
+Process Movie :115231
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :131714
+MAP is :0
+MRR is :0
+
+Process Movie :111759
+MAP is :0
+MRR is :0
+
+Process Movie :89427
+MAP is :0
+MRR is :0
+
+Process Movie :69761
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :95147
+MAP is :0
+MRR is :0
+
+Process Movie :92694
+MAP is :0
+MRR is :0
+
+Process Movie :107702
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :83480
+MAP is :0
+MRR is :0
+
+Process Movie :91630
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :79588
+MAP is :0
+MRR is :0
+
+Process Movie :72176
+MAP is :0
+MRR is :0
+
+Process Movie :72919
+MAP is :0
+MRR is :0
+
+Process Movie :72171
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :47384
+MAP is :0
+MRR is :0
+
+Process Movie :91323
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :44317
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :79274
+MAP is :0
+MRR is :0
+
+Process Movie :114122
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :61394
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :88356
+MAP is :0
+MRR is :0
+
+Process Movie :110110
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :69849
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :86014
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :99811
+MAP is :0.453333333333
+MRR is :0.306666666667
+
+Process Movie :103980
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :87785
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :110591
+MAP is :0
+MRR is :0
+
+Process Movie :103984
+MAP is :0
+MRR is :0
+
+Process Movie :160438
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :159462
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :50912
+MAP is :0
+MRR is :0
+
+Process Movie :129514
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :72356
+MAP is :0
+MRR is :0
+
+Process Movie :92210
+MAP is :0
+MRR is :0
+
+Process Movie :55417
+MAP is :0
+MRR is :0
+
+Process Movie :65638
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :55363
+MAP is :0
+MRR is :0
+
+Process Movie :116503
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :102407
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :77414
+MAP is :0
+MRR is :0
+
+Process Movie :130448
+MAP is :0
+MRR is :0
+
+Process Movie :104339
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :43708
+MAP is :0
+MRR is :0
+
+Process Movie :96590
+MAP is :0
+MRR is :0
+
+Process Movie :44301
+MAP is :0
+MRR is :0
+
+Process Movie :101741
+MAP is :0
+MRR is :0
+
+Process Movie :61401
+MAP is :0
+MRR is :0
+
+Process Movie :51084
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :73531
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :51080
+MAP is :0
+MRR is :0
+
+Process Movie :65126
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :127108
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :82461
+MAP is :0
+MRR is :0
+
+Process Movie :93270
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :155611
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :52281
+MAP is :0
+MRR is :0
+
+Process Movie :94266
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :68967
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :150401
+MAP is :0
+MRR is :0
+
+Process Movie :52287
+MAP is :0
+MRR is :0
+
+Process Movie :75816
+MAP is :0
+MRR is :0
+
+Process Movie :98795
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :47200
+MAP is :0
+MRR is :0
+
+Process Movie :65259
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :75813
+MAP is :0
+MRR is :0
+
+Process Movie :43899
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :84950
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :158238
+MAP is :0
+MRR is :0
+
+Process Movie :118105
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :101106
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :84847
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :140761
+MAP is :0
+MRR is :0
+
+Process Movie :51662
+MAP is :0
+MRR is :0
+
+Process Movie :134025
+MAP is :0
+MRR is :0
+
+Process Movie :117871
+MAP is :0
+MRR is :0
+
+Process Movie :82202
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :57528
+MAP is :0
+MRR is :0
+
+Process Movie :77291
+MAP is :0
+MRR is :0
+
+Process Movie :98243
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :57526
+MAP is :0
+MRR is :0
+
+Process Movie :116897
+MAP is :0
+MRR is :0
+
+Process Movie :139385
+MAP is :0
+MRR is :0
+
+Process Movie :65418
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :101362
+MAP is :0
+MRR is :0
+
+Process Movie :103137
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :135436
+MAP is :0
+MRR is :0
+
+Process Movie :158528
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :100498
+MAP is :0
+MRR is :0
+
+Process Movie :43679
+MAP is :0
+MRR is :0
+
+Process Movie :133824
+MAP is :0
+MRR is :0
+
+Process Movie :81641
+MAP is :0
+MRR is :0
+
+Process Movie :69712
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :96829
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :107516
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :134528
+MAP is :0
+MRR is :0
+
+Process Movie :64278
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :96821
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :63826
+MAP is :0
+MRR is :0
+
+Process Movie :87869
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :87232
+MAP is :0
+MRR is :0
+
+Process Movie :45221
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :60756
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :52668
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :60753
+MAP is :0
+MRR is :0
+
+Process Movie :141890
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :101962
+MAP is :0
+MRR is :0
+
+Process Movie :52666
+MAP is :0
+MRR is :0
+
+Process Movie :127144
+MAP is :0
+MRR is :0
+
+Process Movie :79879
+MAP is :0
+MRR is :0
+
+Process Movie :56921
+MAP is :0
+MRR is :0
+
+Process Movie :70282
+MAP is :0
+MRR is :0
+
+Process Movie :70286
+MAP is :0
+MRR is :0
+
+Process Movie :97225
+MAP is :0
+MRR is :0
+
+Process Movie :53000
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :63481
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :102469
+MAP is :0
+MRR is :0
+
+Process Movie :85414
+MAP is :0
+MRR is :0
+
+Process Movie :51044
+MAP is :0
+MRR is :0
+
+Process Movie :56174
+MAP is :0
+MRR is :0
+
+Process Movie :108979
+MAP is :0
+MRR is :0
+
+Process Movie :96911
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :113378
+MAP is :0
+MRR is :0
+
+Process Movie :71390
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :108601
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :133365
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :58879
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :52717
+MAP is :0
+MRR is :0
+
+Process Movie :52712
+MAP is :0
+MRR is :0
+
+Process Movie :112897
+MAP is :0
+MRR is :0
+
+Process Movie :157296
+MAP is :0
+MRR is :0
+
+Process Movie :87306
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :87304
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :44665
+MAP is :0
+MRR is :0
+
+Process Movie :98809
+MAP is :0
+MRR is :0
+
+Process Movie :71248
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :106111
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :68157
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :63131
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :98803
+MAP is :0
+MRR is :0
+
+Process Movie :113207
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :112370
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :80350
+MAP is :0
+MRR is :0
+
+Process Movie :59594
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :71804
+MAP is :0
+MRR is :0
+
+Process Movie :115680
+MAP is :0
+MRR is :0
+
+Process Movie :48165
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :80917
+MAP is :0
+MRR is :0
+
+Process Movie :152025
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :86548
+MAP is :0
+MRR is :0
+
+Process Movie :91134
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :70862
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :133295
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :132961
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :73042
+MAP is :0
+MRR is :0
+
+Process Movie :49961
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :91658
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :112577
+MAP is :0
+MRR is :0
+
+Process Movie :95583
+MAP is :0
+MRR is :0
+
+Process Movie :71732
+MAP is :0
+MRR is :0
+
+Process Movie :108551
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :102905
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :59900
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :70293
+MAP is :0
+MRR is :0
+
+Process Movie :136666
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :70567
+MAP is :0
+MRR is :0
+
+Process Movie :140743
+MAP is :0.333333333333
+MRR is :0.266666666667
+
+Process Movie :57430
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :114935
+MAP is :0
+MRR is :0
+
+Process Movie :160656
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :107649
+MAP is :0
+MRR is :0
+
+Process Movie :158956
+MAP is :0
+MRR is :0
+
+Process Movie :76738
+MAP is :0.32
+MRR is :0.19
+
+Process Movie :111617
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :136864
+MAP is :0
+MRR is :0
+
+Process Movie :161830
+MAP is :0
+MRR is :0
+
+Process Movie :104303
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :66297
+MAP is :0
+MRR is :0
+
+Process Movie :143377
+MAP is :0
+MRR is :0
+
+Process Movie :72612
+MAP is :0
+MRR is :0
+
+Process Movie :107348
+MAP is :0.42
+MRR is :0.29
+
+Process Movie :92681
+MAP is :0
+MRR is :0
+
+Process Movie :137403
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :90600
+MAP is :0
+MRR is :0
+
+Process Movie :69908
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :97957
+MAP is :0
+MRR is :0
+
+Process Movie :72294
+MAP is :0
+MRR is :0
+
+Process Movie :108156
+MAP is :0
+MRR is :0
+
+Process Movie :93510
+MAP is :0
+MRR is :0
+
+Process Movie :110858
+MAP is :0
+MRR is :0
+
+Process Movie :91485
+MAP is :0
+MRR is :0
+
+Process Movie :91483
+MAP is :0
+MRR is :0
+
+Process Movie :72104
+MAP is :0
+MRR is :0
+
+Process Movie :115534
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :72109
+MAP is :0
+MRR is :0
+
+Process Movie :84154
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :91488
+MAP is :0
+MRR is :0
+
+Process Movie :91869
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :130520
+MAP is :0
+MRR is :0
+
+Process Movie :130522
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :88345
+MAP is :0
+MRR is :0
+
+Process Movie :145307
+MAP is :0
+MRR is :0
+
+Process Movie :61361
+MAP is :0
+MRR is :0
+
+Process Movie :66744
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :110102
+MAP is :0
+MRR is :0
+
+Process Movie :100517
+MAP is :0
+MRR is :0
+
+Process Movie :100083
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :51412
+MAP is :0
+MRR is :0
+
+Process Movie :72720
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :88235
+MAP is :0
+MRR is :0
+
+Process Movie :51418
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :92206
+MAP is :0
+MRR is :0
+
+Process Movie :110586
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :58964
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :119068
+MAP is :0
+MRR is :0
+
+Process Movie :48972
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :110611
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :136445
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :136447
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :73741
+MAP is :0
+MRR is :0
+
+Process Movie :50923
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :136449
+MAP is :0
+MRR is :0
+
+Process Movie :103731
+MAP is :0
+MRR is :0
+
+Process Movie :91653
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :112911
+MAP is :0
+MRR is :0
+
+Process Movie :69945
+MAP is :0
+MRR is :0
+
+Process Movie :140174
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :81417
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :131451
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :111529
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :114060
+MAP is :0
+MRR is :0
+
+Process Movie :130450
+MAP is :0
+MRR is :0
+
+Process Movie :130980
+MAP is :0.71
+MRR is :0.39
+
+Process Movie :55280
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :55282
+MAP is :0
+MRR is :0
+
+Process Movie :51705
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :51255
+MAP is :0
+MRR is :0
+
+Process Movie :109042
+MAP is :0
+MRR is :0
+
+Process Movie :51709
+MAP is :0
+MRR is :0
+
+Process Movie :66198
+MAP is :0
+MRR is :0
+
+Process Movie :50658
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :92665
+MAP is :0
+MRR is :0
+
+Process Movie :51094
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :79259
+MAP is :0
+MRR is :0
+
+Process Movie :61167
+MAP is :0
+MRR is :0
+
+Process Movie :93242
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :103883
+MAP is :0
+MRR is :0
+
+Process Movie :65135
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :87483
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :61160
+MAP is :0
+MRR is :0
+
+Process Movie :61210
+MAP is :0
+MRR is :0
+
+Process Movie :75823
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :64660
+MAP is :0.55
+MRR is :0.35
+
+Process Movie :114662
+MAP is :0
+MRR is :0
+
+Process Movie :114464
+MAP is :0
+MRR is :0
+
+Process Movie :104457
+MAP is :0
+MRR is :0
+
+Process Movie :88163
+MAP is :0
+MRR is :0
+
+Process Movie :98491
+MAP is :0
+MRR is :0
+
+Process Movie :48516
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :56156
+MAP is :0
+MRR is :0
+
+Process Movie :97168
+MAP is :0.643333333333
+MRR is :0.356666666667
+
+Process Movie :56775
+MAP is :0
+MRR is :0
+
+Process Movie :64716
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :46322
+MAP is :0
+MRR is :0
+
+Process Movie :140749
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :141956
+MAP is :0
+MRR is :0
+
+Process Movie :130073
+MAP is :0
+MRR is :0
+
+Process Movie :148372
+MAP is :0
+MRR is :0
+
+Process Movie :94325
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :56805
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :94323
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :85316
+MAP is :0
+MRR is :0
+
+Process Movie :74154
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :85213
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :74156
+MAP is :0
+MRR is :0
+
+Process Movie :90524
+MAP is :0
+MRR is :0
+
+Process Movie :90522
+MAP is :0
+MRR is :0
+
+Process Movie :74152
+MAP is :0
+MRR is :0
+
+Process Movie :60295
+MAP is :0.8
+MRR is :0.416666666667
+
+Process Movie :82852
+MAP is :0.483333333333
+MRR is :0.316666666667
+
+Process Movie :104074
+MAP is :0
+MRR is :0
+
+Process Movie :116797
+MAP is :0
+MRR is :0
+
+Process Movie :104076
+MAP is :0
+MRR is :0
+
+Process Movie :104078
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :135137
+MAP is :0
+MRR is :0
+
+Process Movie :116799
+MAP is :0
+MRR is :0
+
+Process Movie :97306
+MAP is :0
+MRR is :0
+
+Process Movie :135133
+MAP is :0
+MRR is :0
+
+Process Movie :91500
+MAP is :0
+MRR is :0
+
+Process Movie :63859
+MAP is :0
+MRR is :0
+
+Process Movie :99276
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :99270
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :99273
+MAP is :0
+MRR is :0
+
+Process Movie :87222
+MAP is :0
+MRR is :0
+
+Process Movie :113565
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :76111
+MAP is :0
+MRR is :0
+
+Process Movie :78321
+MAP is :0.353333333333
+MRR is :0.206666666667
+
+Process Movie :54270
+MAP is :0
+MRR is :0
+
+Process Movie :101112
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :125916
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :70201
+MAP is :0
+MRR is :0
+
+Process Movie :97230
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :80126
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :141422
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :98279
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :85401
+MAP is :0
+MRR is :0
+
+Process Movie :108949
+MAP is :0
+MRR is :0
+
+Process Movie :91978
+MAP is :0
+MRR is :0
+
+Process Movie :159858
+MAP is :0.6
+MRR is :0.366666666667
+
+Process Movie :134170
+MAP is :0
+MRR is :0
+
+Process Movie :45672
+MAP is :0
+MRR is :0
+
+Process Movie :133377
+MAP is :0
+MRR is :0
+
+Process Movie :58649
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :45679
+MAP is :0
+MRR is :0
+
+Process Movie :108945
+MAP is :0
+MRR is :0
+
+Process Movie :52722
+MAP is :0
+MRR is :0
+
+Process Movie :128512
+MAP is :0
+MRR is :0
+
+Process Movie :83803
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :140267
+MAP is :0.146666666667
+MRR is :0.106666666667
+
+Process Movie :133771
+MAP is :0
+MRR is :0
+
+Process Movie :138036
+MAP is :0
+MRR is :0
+
+Process Movie :44671
+MAP is :0
+MRR is :0
+
+Process Movie :49688
+MAP is :0
+MRR is :0
+
+Process Movie :95499
+MAP is :0
+MRR is :0
+
+Process Movie :71252
+MAP is :0
+MRR is :0
+
+Process Movie :71254
+MAP is :0
+MRR is :0
+
+Process Movie :80346
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :118900
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :113416
+MAP is :0
+MRR is :0
+
+Process Movie :54768
+MAP is :0.3
+MRR is :0.25
+
+Process Movie :71810
+MAP is :0
+MRR is :0
+
+Process Movie :108709
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :48791
+MAP is :0
+MRR is :0
+
+Process Movie :91128
+MAP is :0
+MRR is :0
+
+Process Movie :102123
+MAP is :0
+MRR is :0
+
+Process Movie :113780
+MAP is :0.18
+MRR is :0.14
+
+Process Movie :72733
+MAP is :0.233333333333
+MRR is :0.166666666667
+
+Process Movie :48159
+MAP is :0
+MRR is :0
+
+Process Movie :91126
+MAP is :0.28
+MRR is :0.24
+
+Process Movie :104419
+MAP is :0
+MRR is :0
+
+Process Movie :98908
+MAP is :0
+MRR is :0
+
+Process Movie :89356
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :48082
+MAP is :0
+MRR is :0
+
+Process Movie :71650
+MAP is :1.0
+MRR is :0.456666666667
+
+Process Movie :44073
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :81591
+MAP is :0.0666666666667
+MRR is :0.0666666666667
+
+Process Movie :59935
+MAP is :0
+MRR is :0
+
+Process Movie :97895
+MAP is :0.286666666667
+MRR is :0.156666666667
+
+Process Movie :68965
+MAP is :0.04
+MRR is :0.04
+
+Process Movie :52328
+MAP is :0
+MRR is :0
+
+Process Movie :133195
+MAP is :0
+MRR is :0
+
+Process Movie :59118
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :47978
+MAP is :0.2
+MRR is :0.15
+
+Process Movie :116849
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :152017
+MAP is :0
+MRR is :0
+
+Process Movie :114925
+MAP is :0
+MRR is :0
+
+Process Movie :59590
+MAP is :0
+MRR is :0
+
+Process Movie :71033
+MAP is :0
+MRR is :0
+
+Process Movie :112788
+MAP is :0.13
+MRR is :0.09
+
+Process Movie :62203
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :129191
+MAP is :0
+MRR is :0
+
+Process Movie :47404
+MAP is :0
+MRR is :0
+
+Process Movie :47997
+MAP is :0
+MRR is :0
+
+Process Movie :78703
+MAP is :0
+MRR is :0
+
+Process Movie :63992
+MAP is :0
+MRR is :0
+
+Process Movie :72605
+MAP is :0
+MRR is :0
+
+Process Movie :89194
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :72603
+MAP is :0
+MRR is :0
+
+Process Movie :47999
+MAP is :0
+MRR is :0
+
+Process Movie :76093
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :76091
+MAP is :0
+MRR is :0
+
+Process Movie :135266
+MAP is :0
+MRR is :0
+
+Process Movie :145839
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :89759
+MAP is :0.4
+MRR is :0.3
+
+Process Movie :89753
+MAP is :0
+MRR is :0
+
+Process Movie :156025
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :110826
+MAP is :0.05
+MRR is :0.05
+
+Process Movie :106916
+MAP is :0
+MRR is :0
+
+Process Movie :95313
+MAP is :0
+MRR is :0
+
+Process Movie :106918
+MAP is :0
+MRR is :0
+
+Process Movie :95311
+MAP is :0
+MRR is :0
+
+Process Movie :59022
+MAP is :0
+MRR is :0
+
+Process Movie :114818
+MAP is :0
+MRR is :0
+
+Process Movie :67734
+MAP is :0
+MRR is :0
+
+Process Movie :111663
+MAP is :0
+MRR is :0
+
+Process Movie :111443
+MAP is :0.166666666667
+MRR is :0.116666666667
+
+Process Movie :74948
+MAP is :0
+MRR is :0
+
+Process Movie :66171
+MAP is :0
+MRR is :0
+
+Process Movie :47196
+MAP is :0
+MRR is :0
+
+Process Movie :91873
+MAP is :0.1
+MRR is :0.1
+
+Process Movie :74946
+MAP is :0.2
+MRR is :0.2
+
+Process Movie :74944
+MAP is :0
+MRR is :0
+
+Process Movie :111680
+MAP is :0.52
+MRR is :0.34
+
+Process Movie :114254
+MAP is :0.76
+MRR is :0.406666666667
+
+Process Movie :72731
+MAP is :0
+MRR is :0
+
+Process Movie :72737
+MAP is :0
+MRR is :0
+
+Process Movie :82041
+MAP is :0.383333333333
+MRR is :0.216666666667
+
+Process Movie :55167
+MAP is :0
+MRR is :0
+
+Process Movie :107081
+MAP is :0
+MRR is :0
+
+Process Movie :59333
+MAP is :0
+MRR is :0
+
+Process Movie :107083
+MAP is :0
+MRR is :0
+
+Process Movie :59339
+MAP is :0
+MRR is :0
+
+Process Movie :73881
+MAP is :0
+MRR is :0
+
+Process Movie :145935
+MAP is :0
+MRR is :0
+
+Process Movie :91273
+MAP is :0
+MRR is :0
+
+average MAP is :0.114645619374
+average MRR is :0.0778318752377
+
